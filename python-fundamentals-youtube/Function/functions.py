@@ -23,3 +23,8 @@ def make_coffee():
     print("enjoy it")
 
 make_coffee()
+
+def clean_name(name):
+    print(name.strip().lower())
+
+clean_name("  Maria  ")
