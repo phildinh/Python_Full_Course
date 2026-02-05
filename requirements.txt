@@ -5,3 +5,8 @@ pyarrow
 jupyter
 matplotlib
 duckdb
+requests
+python-dotenv
+pydantic
+orjson
+tqdm
