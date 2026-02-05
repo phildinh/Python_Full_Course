@@ -1,0 +1,6 @@
+order_id,order_time,customer_id,city,total_amount,currency
+ord_010,2026-02-05 09:05:10+00:00,201,Sydney,22.75,AUD
+ord_011,2026-02-05 09:12:44+00:00,202,UNKNOWN,15.0,AUD
+ord_012,2026-02-05 09:30:00+00:00,203,Brisbane,0.0,AUD
+ord_013,,204,Melbourne,9.5,AUD
+ord_014,2026-02-05 10:05:55+00:00,-1,Perth,0.0,AUD
