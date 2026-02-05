@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "source": "demo_api",
+    "pulled_at": "2026-02-05T00:00:00Z"
+  },
+  "data": [
+    {
+      "order_id": "ord_101",
+      "order_time": "2026-02-04T12:01:00Z",
+      "customer": {
+        "customer_id": "201",
+        "email": "alice@example.com",
+        "country": "AU"
+      },
+      "items": [
+        {
+          "sku": "A1",
+          "qty": 2,
+          "unit_price": "4.50"
+        },
+        {
+          "sku": "B2",
+          "qty": "1",
+          "unit_price": 10
+        }
+      ],
+      "payment": {
+        "method": "card",
+        "currency": "AUD"
+      }
+    },
+    {
+      "order_id": "ord_102",
+      "order_time": "bad_timestamp",
+      "customer": {
+        "customer_id": 202,
+        "email": "bob@example.com",
+        "country": null
+      },
+      "items": [],
+      "payment": {
+        "method": "paypal",
+        "currency": "AUD"
+      }
+    }
+  ]
+}

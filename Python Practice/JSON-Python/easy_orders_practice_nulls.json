@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "source": "demo_api_practice",
+    "pulled_at": "2026-02-05T02:30:00Z"
+  },
+  "data": [
+    {
+      "order_id": "ord_010",
+      "order_time": "2026-02-05T09:05:10Z",
+      "customer_id": 201,
+      "city": "Sydney",
+      "total_amount": 22.75,
+      "currency": "AUD"
+    },
+    {
+      "order_id": "ord_011",
+      "order_time": "2026-02-05T09:12:44Z",
+      "customer_id": 202,
+      "city": null,
+      "total_amount": 15.0,
+      "currency": "AUD"
+    },
+    {
+      "order_id": "ord_012",
+      "order_time": "2026-02-05T09:30:00Z",
+      "customer_id": "203",
+      "city": "Brisbane",
+      "total_amount": null,
+      "currency": "AUD"
+    },
+    {
+      "order_id": "ord_013",
+      "order_time": "bad_timestamp",
+      "customer_id": 204,
+      "city": "Melbourne",
+      "total_amount": 9.5,
+      "currency": null
+    },
+    {
+      "order_id": "ord_014",
+      "order_time": "2026-02-05T10:05:55Z",
+      "customer_id": null,
+      "city": "Perth",
+      "total_amount": 0,
+      "currency": "AUD"
+    }
+  ]
+}

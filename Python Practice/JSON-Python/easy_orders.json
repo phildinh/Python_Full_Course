@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "source": "demo_api",
+    "pulled_at": "2026-02-05T00:00:00Z"
+  },
+  "data": [
+    {
+      "order_id": "ord_001",
+      "order_time": "2026-02-04T10:12:30Z",
+      "customer_id": 101,
+      "city": "Sydney",
+      "total_amount": 34.5,
+      "currency": "AUD"
+    },
+    {
+      "order_id": "ord_002",
+      "order_time": "2026-02-04T10:15:05Z",
+      "customer_id": 102,
+      "city": "Melbourne",
+      "total_amount": 12.0,
+      "currency": "AUD"
+    },
+    {
+      "order_id": "ord_003",
+      "order_time": "2026-02-04T11:02:11Z",
+      "customer_id": 101,
+      "city": "Sydney",
+      "total_amount": 7.25,
+      "currency": "AUD"
+    }
+  ]
+}

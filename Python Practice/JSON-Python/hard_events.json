@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "source": "demo_api",
+    "pulled_at": "2026-02-05T00:00:00Z"
+  },
+  "data": [
+    {
+      "event_id": "ev_9001",
+      "event_time": "2026-02-04T20:00:00Z",
+      "event_type": "purchase",
+      "user": {
+        "user_id": 301,
+        "traits": {
+          "vip": true,
+          "signup_date": "2025-11-01"
+        },
+        "addresses": [
+          {
+            "type": "home",
+            "city": "Sydney",
+            "state": "NSW"
+          },
+          {
+            "type": "work",
+            "city": "Sydney",
+            "state": "NSW"
+          }
+        ]
+      },
+      "payload": {
+        "cart": {
+          "items": [
+            {
+              "sku": "X9",
+              "qty": 1,
+              "unit_price": 99.99
+            }
+          ],
+          "coupon": "WELCOME10"
+        },
+        "device": {
+          "os": "iOS",
+          "app_version": "5.1.0"
+        }
+      }
+    },
+    {
+      "event_id": "ev_9002",
+      "event_time": "2026-02-04T20:05:00Z",
+      "event_type": "click",
+      "user": {
+        "user_id": "302",
+        "traits": {
+          "vip": false
+        }
+      },
+      "payload": {
+        "page": {
+          "url": "/home",
+          "referrer": null
+        },
+        "device": {
+          "os": "Android",
+          "app_version": "5.0.3"
+        }
+      }
+    }
+  ]
+}
