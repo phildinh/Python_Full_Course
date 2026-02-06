@@ -1,0 +1,11 @@
+order_id,order_time,customer_id,city,state,sku,qty,unit_price,payment_method,discount_code,line_total,extra_info
+ORD001,2026-01-05,U01,Sydney,NSW,A1,2,$4.50,CARD,,9.0,"{""device"":""ios"",""app_version"":""1.2""}"
+ORD001,05/01/2026,U01,SYDNEY ,nsw,A1,2,4.5 AUD,card,WELCOME10,9,"{""device"":""ios"",""app_version"":""1.2""}"
+ORD002,2026/01/07,U02,Melbourne,VIC,B2,1,7.00,PAYPAL,,7.00,"{""device"":""android"",""app_version"":""2.0""}"
+ORD003,,U03,Brisbane,QLD,C3,three,5.25,CARD,,15.75,
+ORD004,2026-01-10T13:20:00Z,U04,Auckland,UNKNOWN,D4,4,"12,00",UNKNOWN,VIP,48,"{""device"":""web""}"
+ORD005,2026-01-11,-1,Perth,WA,E5,0,0,CARD,,0,"{""device"":""ios"",""app_version"":null}"
+ORD006,11-01-2026,U05,Sydney,NSW,F6,1,"$1,200.99",CARD,,1200.99,"{""device"":""web"",""campaign"":""summer""}"
+ORD007,2026-01-12,U06,Sydney,NSW,A1,2,4.50,CARD,vip,9.00,"{""device"":""ios""}"
+ORD008,2026-13-01,U07,Melbourne,VIC,B2,1,7.00,PAYPAL,,7.00,"{""device"":""android""}"
+ORD009,2026-01-14,U07,Melbourne,VIC,B2,1,7.00,PAYPAL,,7.00,"{""device"":""android""}"
