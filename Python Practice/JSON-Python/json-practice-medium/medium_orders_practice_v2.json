@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "source": "demo_api_medium_v2",
+    "pulled_at": "2026-02-06T03:45:00Z",
+    "notes": "Practice dataset: nested customer + shipping + items[]; includes nulls, type issues, bad timestamp, empty items"
+  },
+  "data": [
+    {
+      "order_id": "ord_201",
+      "order_time": "2026-02-06T00:10:15Z",
+      "customer": {
+        "customer_id": "401",
+        "email": "maya@example.com",
+        "country": "au"
+      },
+      "shipping": {
+        "city": "Sydney",
+        "state": "NSW"
+      },
+      "items": [
+        {
+          "sku": "A1",
+          "name": "Notebook",
+          "qty": 2,
+          "unit_price": "4.50"
+        },
+        {
+          "sku": "B2",
+          "name": "Pen",
+          "qty": "3",
+          "unit_price": 1.2
+        }
+      ],
+      "payment": {
+        "method": "card",
+        "currency": "aud"
+      },
+      "discount_code": null
+    },
+    {
+      "order_id": "ord_202",
+      "order_time": "bad_timestamp",
+      "customer": {
+        "customer_id": 402,
+        "email": "liam@example.com",
+        "country": null
+      },
+      "shipping": {
+        "city": null,
+        "state": "VIC"
+      },
+      "items": [
+        {
+          "sku": "A1",
+          "name": "Notebook",
+          "qty": "1",
+          "unit_price": "4.50"
+        }
+      ],
+      "payment": {
+        "method": "paypal",
+        "currency": null
+      },
+      "discount_code": "WELCOME10"
+    },
+    {
+      "order_id": "ord_203",
+      "order_time": "2026-02-06T01:05:00Z",
+      "customer": {
+        "customer_id": null,
+        "email": "no-id@example.com",
+        "country": "AU"
+      },
+      "shipping": {
+        "city": "Brisbane",
+        "state": "QLD"
+      },
+      "items": [],
+      "payment": {
+        "method": null,
+        "currency": "AUD"
+      },
+      "discount_code": ""
+    },
+    {
+      "order_id": "ord_204",
+      "order_time": "2026-02-06T02:20:30Z",
+      "customer": {
+        "customer_id": "404",
+        "email": null,
+        "country": "NZ"
+      },
+      "shipping": {
+        "city": "Auckland",
+        "state": null
+      },
+      "items": [
+        {
+          "sku": "C3",
+          "name": "Marker",
+          "qty": 1,
+          "unit_price": 2.75
+        },
+        {
+          "sku": "D4",
+          "name": "Eraser",
+          "qty": 2,
+          "unit_price": null
+        }
+      ],
+      "payment": {
+        "method": "card",
+        "currency": "NZD"
+      },
+      "discount_code": null
+    }
+  ]
+}

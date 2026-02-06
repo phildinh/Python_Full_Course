@@ -1,0 +1,6 @@
+order_id,order_time,customer_id,ship_city,sku,name,qty,unit_price,currency,discount_code,Line_total
+ord_201,2026-02-06 00:10:15+00:00,401,SYDNEY,A1,Notebook,2,4.5,AUD,,9.0
+ord_201,2026-02-06 00:10:15+00:00,401,SYDNEY,B2,Pen,3,1.2,AUD,,3.6
+ord_202,,402,UNKNOWN,A1,Notebook,1,4.5,AUD,WELCOME10,4.5
+ord_204,2026-02-06 02:20:30+00:00,404,AUCKLAND,C3,Marker,1,2.75,NZD,,2.75
+ord_204,2026-02-06 02:20:30+00:00,404,AUCKLAND,D4,Eraser,2,0,NZD,,0.0

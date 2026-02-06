@@ -1,0 +1,5 @@
+order_id,order_time,customer_id,email,country,ship_city,ship_state,payment_method,currency,discount_code
+ord_201,2026-02-06 00:10:15+00:00,401,maya@example.com,AU,SYDNEY,NSW,CARD,AUD,
+ord_202,,402,liam@example.com,UNKNOWN,UNKNOWN,VIC,PAYPAL,AUD,WELCOME10
+ord_203,2026-02-06 01:05:00+00:00,-1,no-id@example.com,AU,BRISBANE,QLD,UNKNOWN,AUD,
+ord_204,2026-02-06 02:20:30+00:00,404,,NZ,AUCKLAND,UNKNOWN,CARD,NZD,
