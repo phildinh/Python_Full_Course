@@ -1,0 +1,113 @@
+customer_id,candidate_name,email,phone,city,country,education
+1,christopher davis,chris.davis.1990@email.com,4155550776,Other Australia,United States,Bachelor
+2,minh vu,vddminh89@gmail.com,840904562633,Ho Chi Minh City,Vietnam,Bachelor
+3,tran quoc bao,21bao.tq@vinuni.edu.vn,84382780002,Hanoi,Vietnam,Bachelor
+4,le anh vy (chloe),chloe@theseedsoft.com,0404262401,Sydney,Australia,Diploma
+5,amanda martinez,amanda.martinez@email.com,6025550811,Other United States,United States,Master
+6,arshad manivannan,arshadrehman2628@gmail.com,0451762826,Melbourne,Australia,Master
+7,shara will,shara.will@gmail.com,15551234567,Ho Chi Minh City,Vietnam,Diploma
+8,richard sanchez,noemailprovided@example.com,,Unknown,Unknown,Unknown
+9,truc nguyen,truc.nguyen1704@gmail.com,84937712575,Unknown,Vietnam,Unknown
+10,foo lee,shara.will@email.com,84912345678,Ho Chi Minh City,Vietnam,Bachelor
+11,peter nguyen,pnguyen.gg@gmail.com,949,Unknown,United States,Master
+12,richard sanchez,,,Unknown,Unknown,Unknown
+13,binh phuong duyen dang,dbpduyen111.04@gmail.com,84385066641,Ho Chi Minh City,Vietnam,University
+14,tung nguyen,tungnd311@gmail.com,84346171394,Hanoi,Vietnam,University
+15,hồ thị phương dung,,,Unknown,Unknown,Unknown
+16,thu hien (yoon) pham,thuhien.pham04012002@gmail.com,61466104317,Unknown,Australia,Bachelor
+17,pham thi nhu y,yphamcr@gmail.com,84906636911,Ho Chi Minh City,Vietnam,Bachelor
+18,quyen nguyen (mandy),mandynguyen3690@gmail.com,84938888891,Ho Chi Minh City,Vietnam,Diploma
+19,nguyen phat tai,abc@gmail.com,84999999999,Sydney,Australia,Bachelor
+20,dung dao,dungdao.dev@example.com,84912456789,Ho Chi Minh City,Vietnam,Bachelor
+21,sarah miller,sarah.miller.dev@email.com,2065550643,Other United States,Australia,Bachelor
+22,duc tran (alex),aegis7544@gmail.com,0413272069,Sydney,Australia,Bachelor
+23,debbie sharronica,debbiesharronica@gmail.com,61478780190,Unknown,Australia,Master
+24,sophanny etiquette,nythach@gmail.com,84977139399,Unknown,Vietnam,Diploma
+25,trinh vo hai long,tvhlong@gmail.com,84862479718,Unknown,Vietnam,Bachelor
+26,quang hung le,lequanghung462@gmail.com,61493142458,Ho Chi Minh City,Vietnam,University
+27,quang hung le,lequanghung462@gmail.com,6149314245884784231506,Ho Chi Minh City,Vietnam,University
+28,,,,Unknown,Unknown,Unknown
+29,tran ky pho,minh.anh.nguyen@email.com,84912345678,Ho Chi Minh City,Vietnam,Unknown
+30,huynh ngoc nhu,nhuhn21@uef.edu.vn,0774098238,Unknown,Vietnam,University
+31,huynh ngoc nhu,nhuhhn21@uef.edu.vn,0774098238,Unknown,Vietnam,University
+32,truong minh thong,tmthongcv@gmail.com,0937381113,Unknown,Vietnam,University
+33,nguyen hoang trieu vy,vynguyen2506@gmail.com,84767419416,Unknown,Vietnam,Bachelor
+34,nguyen pham thao vy,vynpt22@uef.edu.vn,0706151209,Ho Chi Minh City,Vietnam,University
+35,tran luong phuong thao,thaotran.luong257@gmail.com,0945854830,Ho Chi Minh City,Vietnam,University
+36,truong quoc huy,huytq422@gmail.com,0797749957,Unknown,Vietnam,University
+37,dinh ngoc bao tram,dinhbaotram0404@gmail.com,0908835082,Ho Chi Minh City,Vietnam,University
+38,duong thi my tam,tam07993025424@gmail.com,0764640951,Other Australia,Vietnam,University
+39,tran vu hoai anh,tranvuhoaianh250@gmail.com,0814445068,Other Australia,Vietnam,University
+40,lưu gia hân,luugiahan1603@gmail.com,0944034352,Other Australia,Vietnam,University
+41,vo ngoc cat thuyen,catherine15905@gmail.com,0899079383,Ho Chi Minh City,Vietnam,University
+42,le vo thao vy,levothaovy5540@gmail.com,0979445540,Unknown,Vietnam,University
+43,trần khánh nhi,khanhnhitrancv18@gmail.com,84869984940,Ho Chi Minh City,Vietnam,University
+44,nguyễn thiện nhân,78thiennhan78@gmail.com,0833070804,Unknown,Vietnam,University
+45,nguyen thanh hoang phuc,phucnth.14@gmail.com,0335429008,Unknown,Vietnam,University
+46,,nhihy222@uef.edu.vn,84773141326,Unknown,Vietnam,University
+47,bao phuc,diepphambaophuc@gmail.com,0703244424,Unknown,Vietnam,University
+48,nguyễn thị phương anh,ntphuonganh137@gmail.com,0976914605,Ho Chi Minh City,Vietnam,University
+49,nguyễn ngọc khánh vân,nguyengockhanhvan6404@gmail.com,0933041721,Ho Chi Minh City,Vietnam,University
+50,trần thị diễm hà,dhatran@gmail.com,61424454871,Unknown,Australia,University
+51,kieu thi hong hanh,kthhanh247@gmail.com,0356583635,Other Australia,Vietnam,University
+52,tran huynh thien phuc,thienphuctranhuynh2@gmail.com,0582216155,Ho Chi Minh City,Vietnam,University
+53,thanh dang,vuongthanh.ddt005@gmail.com,0410634350,Unknown,Australia,Master
+54,nguyen ngoc kieu duyen,kieuduyen5111994@gmail.com,0981347278,Ho Chi Minh City,Vietnam,University
+55,nguyen thao nhi,nguyenthaonhi769@gmail.com,0865074905,Unknown,Vietnam,University
+56,nguyễn gia bảo,bao.gia.nguyeen@gmail.com,0328705931,Other Australia,Vietnam,University
+57,trinh hoai thuong,hthuonguni1212@gmail.com,84943217959,Ho Chi Minh City,Vietnam,University
+58,dang thanh vu,vudangthanh000@gmail.com,61411952956,Other Australia,Australia,Master
+59,boi ly,bujiane@example.com,2392759975,Other Australia,Australia,Master
+60,boi ly,bujane@example.com,2392759975,Other Australia,Australia,Master
+61,dung vũ đào,dungdao.dev@example.com,84912456789,Ho Chi Minh City,Vietnam,Bachelor
+62,henry tran,nguyenhaitran@hotmail.com,0432581019,Other Australia,Australia,Master
+63,martin dang,martindang2801@gmail.com,61489306228,Unknown,Australia,Master
+64,my le,mhl88@case.edu,2174199649,Unknown,United States,Bachelor
+65,tony phan,tonyphan04.dev@gmail.com,0403242304,Melbourne,Australia,Master
+66,ha vu,vulengocha@gmail.com,12896989610,Unknown,Australia,Master
+67,tony phan,tonyphan04.ba@gmail.com,0403242304,Melbourne,Australia,Master
+68,irene (phuc uyen phuong) nguyen,uyenphuongng212@gmail.com,0435909488,Sydney,Australia,Bachelor
+69,từ đại hùng,vinhnguyen.tu@ed2career.edu.vn,84938198628,Unknown,Vietnam,Diploma
+70,tu dai hung,vinhnguyen.tu@ed2career.edu.vn,0938198628,Unknown,Vietnam,Diploma
+71,nguyen tao,nguyentao@example.com,84912345678,Hanoi,Vietnam,Bachelor
+72,evelynn nguyen,eve.nguyenha@gmail.com,0414657762,Sydney,Australia,Bachelor
+73,khanh huyen luong,luongkhanhhuyen0809@gmail.com,,Other Australia,Australia,Master
+74,le thanh hoa,hoalethanh86@gmail.com,0986642437,Unknown,Vietnam,Bachelor
+75,dieu my hoang,dieumy.hoangg@gmail.com,61412224894,Unknown,Australia,Unknown
+76,nguyen khang duy,nguyenkhangduy298@gmail.com,84909064518,Ho Chi Minh City,Vietnam,Master
+77,eric nguyen,erichuynguyen18@gmail.com,0452481811,Unknown,Australia,Bachelor
+78,thanh phong phung,thanhphong.phung2809@gmail.com,0490297412,Unknown,Australia,Master
+79,khau lien kiet,johnbui@example.com,43033965418,Ho Chi Minh City,Vietnam,Bachelor
+80,lam le,,0438817866,Unknown,Australia,Master
+81,gia bao hoang,gb.hoang02@gmail.com,61474256877,Other Australia,Australia,Bachelor
+82,sadashiv babbar,s.babbar@student.unsw.edu.au,,Unknown,Unknown,Bachelor
+83,vanessa (van trang) nguyen,tranghcvismo@gmail.com,0430026595,Unknown,Australia,Bachelor
+84,liam williams,liam.williams@email.com,614,Melbourne,Australia,Unknown
+85,bui duy bao,buiduybaobdb@gmail.com,84908099652,Ho Chi Minh City,Vietnam,Bachelor
+86,bui duy bao,,,Ho Chi Minh City,Vietnam,Bachelor
+87,thai thinh,thinhpt11211@gmail.com,0383799926,Ho Chi Minh City,Vietnam,University
+88,dat ha,dathac1111@gmail.com,,Other Australia,United States,Bachelor
+89,tran tam di,tamditran611@gmail.com,0385689046,Ho Chi Minh City,Vietnam,University
+90,tran tuyet ngoc,,,Unknown,Unknown,Diploma
+91,hoang minh ngoc hai,haihoang@thaibinh.com.vn,84916888143,Unknown,Vietnam,Bachelor
+92,nguyen thi thuy linh,linhntt.dhsp@gmail.com,84833218180,Ho Chi Minh City,Vietnam,Bachelor
+93,tran tuyet ngoc,ngoctran17686@gmail.com,0937471257,Ho Chi Minh City,Vietnam,Diploma
+94,john doe,john.doe@example.com,15551234567,Other Australia,United States,University
+95,ngô thị oanh,ngooanh201905@gmail.com,0937463129,Unknown,Vietnam,Diploma
+96,nguyen quang khai,quangkhaidoc8@gmail.com,0815867529,Ho Chi Minh City,Vietnam,Bachelor
+97,nguyen chinh hiep,hiepnc.it@gmail.com,84989242383,Unknown,Vietnam,Master
+98,nguyen phat,phatnguyen1188@gmail.com,0773791094,Unknown,Vietnam,Bachelor
+99,đồng trần khánh an,qhoang@example.net,33222496952,Unknown,France,Highschool
+100,nguyễn ngọc bảo trân,nguyenngocbaotran.contact@gmail.com,84987934364,Ho Chi Minh City,Vietnam,University
+101,nguyễn văn an,an.nguyen.dev@example.com,84905123456,Ho Chi Minh City,Vietnam,Bachelor
+102,la thi phuong thao,lathiphuongthao.contact@gmail.com,84987934364,Ho Chi Minh City,Vietnam,University
+103,nguyễn ngọc bảo trân,nguyengocbaotran.contact@gmail.com,84987934364,Ho Chi Minh City,Vietnam,University
+104,nguyễn ngọc bảo trân,nguyennngocbaotran.contact@gmail.com,84987934364,Ho Chi Minh City,Vietnam,University
+105,nguyen cong quyen,congquyen11011996@gmail.com,84768943379,Ho Chi Minh City,Vietnam,College
+106,nguyen quang khai,quangkhhaidoc8@gmail.com,0815867529,Ho Chi Minh City,Vietnam,Bachelor
+107,nguyễn phúc minh,phucminhhnng@gmail.com,0971868696,Hanoi,Vietnam,University
+108,hoàng minh ngọc hải,hoangminhngochai@gmail.com,84916888143,Unknown,Vietnam,University
+109,nguyễn ngọc bảo trân,nguyennogcbaotran.contact@gmail.com,84987934364,Ho Chi Minh City,Vietnam,University
+110,abdul karim,abdul.karim00035@gmail.com,966555168042,Unknown,Saudi Arabia,Bachelor
+111,phil dinh,phildinhdata@gmail.com,0451840818,Sydney,Australia,Master
+112,tai nguyen,nguyenductaidhsp@gmail.com,84907959003,Ho Chi Minh City,Vietnam,Bachelor
