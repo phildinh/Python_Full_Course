@@ -1,0 +1,2296 @@
+name,level,score,customer_id,analysis_id,skill_type
+Collaboration,Intermediate,70.0,1,1759998111377,soft_skills
+Problem-solving,Intermediate,70.0,1,1759998111377,soft_skills
+Problem solving,Expert,95.0,2,1759998769335,soft_skills
+Leadership,Advanced,80.0,2,1759998769335,soft_skills
+Business Analysis,Advanced,85.0,2,1759998769335,soft_skills
+Project Management,Expert,90.0,4,1760001071242,soft_skills
+Stakeholder Management,Expert,88.0,4,1760001071242,soft_skills
+Leadership,Expert,90.0,4,1760001071242,soft_skills
+Negotiation,Advanced,80.0,4,1760001071242,soft_skills
+Analytical Thinking,Advanced,80.0,4,1760001071242,soft_skills
+Project Management,Expert,90.0,4,1760001127938,soft_skills
+Contract Negotiation,Advanced,80.0,4,1760001127938,soft_skills
+Team Leadership,Advanced,85.0,4,1760001127938,soft_skills
+Stakeholder Communication,Advanced,85.0,4,1760001127938,soft_skills
+Team Collaboration,Advanced,80.0,5,1760001497602,soft_skills
+Communication,Intermediate,70.0,5,1760001497602,soft_skills
+Written & verbal communication,Expert,90.0,6,1760001471313,soft_skills
+Analytical thinking,Advanced,85.0,6,1760001471313,soft_skills
+Problem-solving,Advanced,85.0,6,1760001471313,soft_skills
+Customer support,Advanced,85.0,6,1760001471313,soft_skills
+Documentation,Advanced,80.0,6,1760001471313,soft_skills
+Research,Intermediate,70.0,3,1760001555963,soft_skills
+Communication,Intermediate,65.0,3,1760001555963,soft_skills
+Leadership,Advanced,85.0,7,1760002994028,soft_skills
+Analytical Thinking,Advanced,85.0,7,1760002994028,soft_skills
+Communication,Advanced,85.0,7,1760002994028,soft_skills
+Leadership,Expert,90.0,8,1760007201087,soft_skills
+Critical Thinking,Advanced,75.0,8,1760007201087,soft_skills
+Communication,Advanced,75.0,8,1760007201087,soft_skills
+Teamwork,Advanced,75.0,8,1760007201087,soft_skills
+Leadership,Expert,95.0,9,1760007290148,soft_skills
+Strategic Planning,Expert,90.0,9,1760007290148,soft_skills
+Partnership Management,Advanced,85.0,9,1760007290148,soft_skills
+Analytical Thinking,Expert,90.0,10,1760010233087,soft_skills
+Communication of Test Results,Advanced,80.0,10,1760010233087,soft_skills
+Attention to Detail,Intermediate,70.0,10,1760010233087,soft_skills
+Leadership,Expert,95.0,11,1760011356037,soft_skills
+Team building,Expert,90.0,11,1760011356037,soft_skills
+Project management,Expert,90.0,11,1760011356037,soft_skills
+Strategic planning,Expert,90.0,11,1760011356037,soft_skills
+Vendor negotiation,Advanced,85.0,11,1760011356037,soft_skills
+Communication,Advanced,85.0,11,1760011356037,soft_skills
+Leadership,Expert,90.0,12,1760015558385,soft_skills
+Critical Thinking,Advanced,75.0,12,1760015558385,soft_skills
+Communication,Advanced,75.0,12,1760015558385,soft_skills
+Teamwork,Advanced,75.0,12,1760015558385,soft_skills
+Leadership,Expert,90.0,12,1760015600287,soft_skills
+Critical Thinking,Advanced,75.0,12,1760015600287,soft_skills
+Communication,Advanced,75.0,12,1760015600287,soft_skills
+Teamwork,Advanced,75.0,12,1760015600287,soft_skills
+Problem Solving,Advanced,80.0,13,1760015656063,soft_skills
+Negotiation,Intermediate,70.0,13,1760015656063,soft_skills
+Communication,Advanced,85.0,13,1760015656063,soft_skills
+Client Prospecting,Advanced,85.0,14,1760015916021,soft_skills
+Stakeholder Management,Advanced,80.0,14,1760015916021,soft_skills
+Team Leadership,Intermediate,75.0,14,1760015916021,soft_skills
+Communication,Advanced,90.0,14,1760015976285,soft_skills
+Leadership,Intermediate,80.0,14,1760015976285,soft_skills
+Research,Advanced,85.0,14,1760015976285,soft_skills
+Customer Service & Communication,Advanced,85.0,16,1760084158935,soft_skills
+Complaint & Conflict Resolution,Advanced,80.0,16,1760084158935,soft_skills
+Team Leadership & Training,Advanced,80.0,16,1760084158935,soft_skills
+Stakeholder Engagement,Intermediate,75.0,16,1760084158935,soft_skills
+Time Management & Adaptability,Intermediate,75.0,16,1760084158935,soft_skills
+Customer Service,Expert,90.0,16,1760084316257,soft_skills
+Communication,Advanced,80.0,16,1760084316257,soft_skills
+Team Leadership,Advanced,80.0,16,1760084316257,soft_skills
+Stakeholder Engagement,Intermediate,70.0,16,1760084316257,soft_skills
+Project Coordination,Advanced,80.0,16,1760084316257,soft_skills
+Time Management,Advanced,80.0,16,1760084316257,soft_skills
+Adaptability,Advanced,80.0,16,1760084316257,soft_skills
+Conflict Resolution,Advanced,80.0,16,1760084316257,soft_skills
+Communication,Expert,90.0,17,1760256028351,soft_skills
+Leadership,Expert,90.0,17,1760256028351,soft_skills
+Creativity,Expert,90.0,17,1760256028351,soft_skills
+Detail-oriented,Advanced,85.0,17,1760256028351,soft_skills
+Attention to detail,Advanced,85.0,17,1760256092952,soft_skills
+Creative problem solving,Advanced,80.0,17,1760256092952,soft_skills
+Project management,Expert,90.0,17,1760256092952,soft_skills
+Partnership building,Advanced,80.0,17,1760256092952,soft_skills
+Leadership,Advanced,85.0,17,1760256092952,soft_skills
+Strategic Partnership,Expert,90.0,18,1760426276249,soft_skills
+Team Leadership & Development,Advanced,85.0,18,1760426276249,soft_skills
+Market Expansion & Network Building,Expert,88.0,18,1760426276249,soft_skills
+Stakeholder Communication,Expert,85.0,19,1760430218242,soft_skills
+Problem Solving,Advanced,80.0,19,1760430218242,soft_skills
+Critical Thinking,Advanced,80.0,19,1760430218242,soft_skills
+Facilitation,Advanced,75.0,19,1760430218242,soft_skills
+Documentation,Advanced,80.0,19,1760430218242,soft_skills
+Stakeholder Communication,Advanced,80.0,19,1760430363155,soft_skills
+Problem Solving,Advanced,80.0,19,1760430363155,soft_skills
+Critical Thinking,Advanced,80.0,19,1760430363155,soft_skills
+Facilitation,Intermediate,65.0,19,1760430363155,soft_skills
+Documentation,Advanced,75.0,19,1760430363155,soft_skills
+Problem-solving,Expert,90.0,20,1760435526983,soft_skills
+Team Leadership,Expert,85.0,20,1760435526983,soft_skills
+Cross-functional Collaboration,Advanced,75.0,20,1760435526983,soft_skills
+Mentoring,Advanced,70.0,20,1760435526983,soft_skills
+Stakeholder Communication,Advanced,90.0,19,1760438271930,soft_skills
+Problem Solving,Advanced,88.0,19,1760438271930,soft_skills
+Critical Thinking,Advanced,88.0,19,1760438271930,soft_skills
+Facilitation,Advanced,85.0,19,1760438271930,soft_skills
+Documentation,Advanced,90.0,19,1760438271930,soft_skills
+Analytical thinking,Expert,90.0,21,1760438794842,soft_skills
+Communication,Expert,90.0,21,1760438794842,soft_skills
+Mentoring,Advanced,80.0,21,1760438794842,soft_skills
+Attention to detail,Expert,90.0,21,1760438794842,soft_skills
+Collaboration,Advanced,80.0,21,1760438794842,soft_skills
+Stakeholder Communication,Advanced,80.0,19,1760502219404,soft_skills
+Problem Solving,Advanced,80.0,19,1760502219404,soft_skills
+Critical Thinking,Advanced,80.0,19,1760502219404,soft_skills
+Facilitation,Advanced,80.0,19,1760502219404,soft_skills
+Documentation,Advanced,80.0,19,1760502219404,soft_skills
+Fast learner,Advanced,80.0,22,1760582645660,soft_skills
+Team work skills,Advanced,75.0,22,1760582645660,soft_skills
+Bilingual,Intermediate,60.0,22,1760582645660,soft_skills
+Analytical Thinking,Advanced,85.0,10,1760600776245,soft_skills
+Communication,Advanced,80.0,10,1760600776245,soft_skills
+Attention to Detail,Intermediate,75.0,10,1760600776245,soft_skills
+Advertising,Intermediate,70.0,24,1760602879997,soft_skills
+Customer Experience,Expert,90.0,24,1760602879997,soft_skills
+Global Business,Advanced,80.0,24,1760602879997,soft_skills
+Customer Service,Expert,90.0,24,1760603841007,soft_skills
+Communication,Expert,90.0,24,1760603841007,soft_skills
+Team Leadership,Advanced,85.0,24,1760603841007,soft_skills
+Coaching & Mentoring,Advanced,80.0,24,1760603841007,soft_skills
+Teamwork,Advanced,80.0,25,1760603963379,soft_skills
+Communication,Advanced,80.0,25,1760603963379,soft_skills
+Adaptability,Advanced,75.0,25,1760603963379,soft_skills
+Quick learning,Advanced,75.0,25,1760603963379,soft_skills
+Time management,Intermediate,65.0,25,1760603963379,soft_skills
+Communication,Advanced,70.0,25,1760604049392,soft_skills
+Adaptability,Advanced,65.0,25,1760604049392,soft_skills
+Work Ethic,Advanced,70.0,25,1760604049392,soft_skills
+Teamwork,Intermediate,60.0,25,1760604049392,soft_skills
+Customer Service,Intermediate,60.0,25,1760604049392,soft_skills
+Collaboration Skill,Intermediate,70.0,26,1760604168512,soft_skills
+Public Speaking Skill,Beginner,50.0,26,1760604168512,soft_skills
+Problems Solving Skill,Intermediate,75.0,26,1760604168512,soft_skills
+English Reading and Writing Skill,Advanced,85.0,26,1760604168512,soft_skills
+English Listening and Speaking Skill,Advanced,90.0,26,1760604168512,soft_skills
+Collaboration Skill,Intermediate,70.0,27,1760604168512,soft_skills
+Public Speaking Skill,Beginner,50.0,27,1760604168512,soft_skills
+Problems Solving Skill,Intermediate,75.0,27,1760604168512,soft_skills
+English Reading and Writing Skill,Advanced,85.0,27,1760604168512,soft_skills
+English Listening and Speaking Skill,Advanced,90.0,27,1760604168512,soft_skills
+Collaboration Skill,Advanced,80.0,26,1760604285700,soft_skills
+Public Speaking Skill,Intermediate,60.0,26,1760604285700,soft_skills
+Problem Solving Skill,Advanced,75.0,26,1760604285700,soft_skills
+English Reading and Writing Skill,Advanced,85.0,26,1760604285700,soft_skills
+English Listening and Speaking Skill,Advanced,85.0,26,1760604285700,soft_skills
+Collaboration Skill,Advanced,80.0,27,1760604285700,soft_skills
+Public Speaking Skill,Intermediate,60.0,27,1760604285700,soft_skills
+Problem Solving Skill,Advanced,75.0,27,1760604285700,soft_skills
+English Reading and Writing Skill,Advanced,85.0,27,1760604285700,soft_skills
+English Listening and Speaking Skill,Advanced,85.0,27,1760604285700,soft_skills
+Advertising,Intermediate,60.0,24,1760604366886,soft_skills
+Customer Experience,Expert,90.0,24,1760604366886,soft_skills
+Global Business,Advanced,75.0,24,1760604366886,soft_skills
+Communication,Expert,95.0,24,1760604366886,soft_skills
+Coaching,Expert,90.0,24,1760604366886,soft_skills
+Communication,Advanced,85.0,25,1760604683682,soft_skills
+Adaptability,Advanced,80.0,25,1760604683682,soft_skills
+Quick learning,Advanced,80.0,25,1760604683682,soft_skills
+Teamwork,Advanced,85.0,25,1760604683682,soft_skills
+Service orientation,Advanced,85.0,25,1760604683682,soft_skills
+Customer Service,Expert,90.0,24,1760673369895,soft_skills
+Communication,Expert,90.0,24,1760673369895,soft_skills
+Leadership,Advanced,80.0,24,1760673369895,soft_skills
+Communication,Expert,90.0,29,1760684989852,soft_skills
+Strategic Planning,Advanced,80.0,29,1760684989852,soft_skills
+Communication,Advanced,85.0,30,1760688616787,soft_skills
+Teamwork,Advanced,85.0,30,1760688616787,soft_skills
+Problem-solving,Intermediate,70.0,30,1760688616787,soft_skills
+English communication,Intermediate,70.0,31,1760688676646,soft_skills
+Social communication,Advanced,75.0,31,1760688676646,soft_skills
+Presentation and teamwork,Advanced,80.0,31,1760688676646,soft_skills
+Problem-solving ability,Intermediate,70.0,31,1760688676646,soft_skills
+Communication & Teamwork,Advanced,80.0,32,1760688663808,soft_skills
+Time Management & Organization,Advanced,75.0,32,1760688663808,soft_skills
+Adaptability,Intermediate,70.0,32,1760688663808,soft_skills
+Teamwork & Collaboration,Advanced,80.0,33,1760688698580,soft_skills
+Communication & Presentation Skills,Advanced,75.0,33,1760688698580,soft_skills
+Rapid Learning & Adaptability,Intermediate,70.0,33,1760688698580,soft_skills
+Creative Thinking,Advanced,80.0,34,1760688700298,soft_skills
+Teamwork,Advanced,85.0,34,1760688700298,soft_skills
+Time Management,Advanced,80.0,34,1760688700298,soft_skills
+Adaptability,Intermediate,70.0,34,1760688700298,soft_skills
+Pressure Management,Intermediate,70.0,34,1760688700298,soft_skills
+Leadership,Advanced,75.0,35,1760688816460,soft_skills
+Teamwork,Advanced,70.0,35,1760688816460,soft_skills
+Communication,Intermediate,60.0,35,1760688816460,soft_skills
+Public Speaking,Intermediate,60.0,35,1760688816460,soft_skills
+Creativity,Intermediate,70.0,36,1760688833742,soft_skills
+Sociable,Intermediate,70.0,36,1760688833742,soft_skills
+Willingness to learn,Intermediate,70.0,36,1760688833742,soft_skills
+Creativity,Intermediate,70.0,36,1760688867445,soft_skills
+Communication,Intermediate,65.0,36,1760688867445,soft_skills
+Learning Agility,Intermediate,60.0,36,1760688867445,soft_skills
+Effective planning skills,Advanced,75.0,37,1760688872683,soft_skills
+Professional and flexible communication,Advanced,80.0,37,1760688872683,soft_skills
+Dedicated customer service,Advanced,78.0,37,1760688872683,soft_skills
+Persuasive sales skills,Advanced,80.0,37,1760688872683,soft_skills
+Tailored program consultation,Intermediate,65.0,37,1760688872683,soft_skills
+Creativity,Intermediate,65.0,36,1760688898157,soft_skills
+Communication,Intermediate,60.0,36,1760688898157,soft_skills
+Adaptability,Intermediate,60.0,36,1760688898157,soft_skills
+Communication,Intermediate,60.0,38,1760688898082,soft_skills
+Presentation,Intermediate,60.0,38,1760688898082,soft_skills
+Teamwork,Intermediate,60.0,38,1760688898082,soft_skills
+Problem Solving,Advanced,80.0,39,1760688894921,soft_skills
+Creativity,Advanced,80.0,39,1760688894921,soft_skills
+Time Management,Advanced,75.0,39,1760688894921,soft_skills
+Team Work,Advanced,75.0,39,1760688894921,soft_skills
+Communication,Advanced,80.0,39,1760688894921,soft_skills
+Adaptability,Advanced,75.0,39,1760688894921,soft_skills
+Self Motivation,Advanced,80.0,39,1760688894921,soft_skills
+Teamwork,Advanced,85.0,40,1760688908663,soft_skills
+Planning & Time Management,Intermediate,80.0,40,1760688908663,soft_skills
+Communication & Active Listening,Advanced,85.0,40,1760688908663,soft_skills
+Presentation Skills,Intermediate,80.0,40,1760688908663,soft_skills
+Communication,Intermediate,60.0,41,1760688924773,soft_skills
+Adaptability,Intermediate,60.0,41,1760688924773,soft_skills
+Decision-making,Beginner,50.0,41,1760688924773,soft_skills
+Mentorship,Beginner,50.0,41,1760688924773,soft_skills
+Teamwork,Advanced,70.0,42,1760688938599,soft_skills
+Communication,Advanced,70.0,42,1760688938599,soft_skills
+Time Management,Advanced,70.0,42,1760688938599,soft_skills
+Organizational Skills,Advanced,70.0,42,1760688938599,soft_skills
+Proactive Mindset,Intermediate,60.0,42,1760688938599,soft_skills
+Result-Oriented,Intermediate,60.0,42,1760688938599,soft_skills
+Problem-Solving,Advanced,80.0,43,1760688951069,soft_skills
+Time Management,Advanced,75.0,43,1760688951069,soft_skills
+Team Collaboration,Advanced,80.0,43,1760688951069,soft_skills
+Presentation Skills,Advanced,75.0,43,1760688951069,soft_skills
+Negotiation Skills,Intermediate,65.0,43,1760688951069,soft_skills
+Networking,Intermediate,65.0,43,1760688951069,soft_skills
+Sales Strategies,Intermediate,60.0,43,1760688951069,soft_skills
+Communication,Advanced,85.0,44,1760688965820,soft_skills
+Teamwork skills,Advanced,80.0,44,1760688965820,soft_skills
+Communication,Advanced,80.0,45,1760688976521,soft_skills
+Teamwork,Advanced,75.0,45,1760688976521,soft_skills
+Teamwork & Collaboration,Advanced,80.0,33,1760688955200,soft_skills
+Communication & Presentation Skills,Advanced,80.0,33,1760688955200,soft_skills
+Rapid Learning & Adaptability,Advanced,80.0,33,1760688955200,soft_skills
+Teamwork,Advanced,85.0,40,1760688992563,soft_skills
+Planning & Time Management,Advanced,80.0,40,1760688992563,soft_skills
+Communication & Active Listening,Advanced,85.0,40,1760688992563,soft_skills
+Presentation Skills,Intermediate,75.0,40,1760688992563,soft_skills
+Attention to Detail,Advanced,90.0,46,1760688997052,soft_skills
+Problem Solving,Advanced,85.0,46,1760688997052,soft_skills
+Analytical Skills,Advanced,85.0,46,1760688997052,soft_skills
+Communication,Intermediate,70.0,46,1760688997052,soft_skills
+Creativity,Advanced,80.0,46,1760688997052,soft_skills
+Negotiation Skills,Advanced,85.0,43,1760689005788,soft_skills
+Time Management,Advanced,80.0,43,1760689005788,soft_skills
+Presentation Skills,Advanced,85.0,43,1760689005788,soft_skills
+Team Collaboration,Advanced,80.0,43,1760689005788,soft_skills
+Problem-Solving,Advanced,80.0,43,1760689005788,soft_skills
+Networking,Intermediate,70.0,43,1760689005788,soft_skills
+Communication,Advanced,80.0,44,1760689008868,soft_skills
+Teamwork,Advanced,80.0,44,1760689008868,soft_skills
+Sales Strategies,Intermediate,70.0,43,1760689051039,soft_skills
+Negotiation Skills,Intermediate,65.0,43,1760689051039,soft_skills
+Problem-Solving,Advanced,80.0,43,1760689051039,soft_skills
+Time Management,Advanced,85.0,43,1760689051039,soft_skills
+Presentation Skills,Intermediate,75.0,43,1760689051039,soft_skills
+Networking,Intermediate,70.0,43,1760689051039,soft_skills
+Market Research,Intermediate,70.0,43,1760689051039,soft_skills
+Team Collaboration,Advanced,80.0,43,1760689051039,soft_skills
+Communication & Networking,Advanced,80.0,47,1760689141312,soft_skills
+Organization & Time Management,Advanced,85.0,47,1760689141312,soft_skills
+Responsibility & Pressure Handling,Advanced,80.0,47,1760689141312,soft_skills
+Communication Skills,Expert,95.0,48,1760689163736,soft_skills
+Teamwork Skills,Expert,90.0,48,1760689163736,soft_skills
+English,Intermediate,70.0,49,1760689298587,soft_skills
+Teamwork,Intermediate,60.0,49,1760689298587,soft_skills
+Presentation,Intermediate,60.0,49,1760689298587,soft_skills
+Planning,Intermediate,60.0,49,1760689298587,soft_skills
+Problem solving,Intermediate,60.0,49,1760689298587,soft_skills
+Internal & External communication,Intermediate,60.0,49,1760689298587,soft_skills
+Using AI effectively,Intermediate,65.0,49,1760689298587,soft_skills
+Communication,Expert,95.0,50,1760689320596,soft_skills
+Leadership,Expert,90.0,50,1760689320596,soft_skills
+Problem Solving,Advanced,85.0,50,1760689320596,soft_skills
+Teamwork,Advanced,85.0,50,1760689320596,soft_skills
+Negotiation,Advanced,80.0,50,1760689320596,soft_skills
+Teamwork Skills,Advanced,75.0,51,1760689480835,soft_skills
+Communication & Presentation,Advanced,70.0,51,1760689480835,soft_skills
+Adaptability,Expert,85.0,51,1760689480835,soft_skills
+English communication,Intermediate,60.0,52,1760689493510,soft_skills
+Planning,Intermediate,60.0,52,1760689493510,soft_skills
+Consulting,Intermediate,55.0,52,1760689493510,soft_skills
+Customer Service,Expert,90.0,53,1760689577258,soft_skills
+Time Management,Advanced,80.0,53,1760689577258,soft_skills
+Adaptability,Advanced,80.0,53,1760689577258,soft_skills
+Initiative,Advanced,80.0,53,1760689577258,soft_skills
+Content writing,Intermediate,65.0,54,1760689611457,soft_skills
+Teamwork & Presentation,Advanced,80.0,54,1760689611457,soft_skills
+Effective Communication,Advanced,85.0,54,1760689611457,soft_skills
+English communication,Intermediate,60.0,54,1760689611457,soft_skills
+Idea Pitching & Collaboration,Intermediate,70.0,55,1760689635955,soft_skills
+Time Management,Intermediate,65.0,55,1760689635955,soft_skills
+Communication & Storytelling,Advanced,80.0,56,1760689668723,soft_skills
+Teamwork & Collaboration,Advanced,80.0,56,1760689668723,soft_skills
+Creativity & Problem-solving,Intermediate,70.0,56,1760689668723,soft_skills
+Time Management & Attention to Detail,Intermediate,70.0,56,1760689668723,soft_skills
+Adaptability & Quick Learning,Intermediate,70.0,56,1760689668723,soft_skills
+Communication & Storytelling,Advanced,85.0,56,1760689700401,soft_skills
+Teamwork & Collaboration,Advanced,85.0,56,1760689700401,soft_skills
+Creativity & Problem-solving,Advanced,80.0,56,1760689700401,soft_skills
+Time Management & Attention to Detail,Intermediate,70.0,56,1760689700401,soft_skills
+Adaptability & Quick Learning,Advanced,80.0,56,1760689700401,soft_skills
+Communication & Storytelling,Advanced,75.0,56,1760689755679,soft_skills
+Teamwork & Collaboration,Advanced,80.0,56,1760689755679,soft_skills
+Creativity & Problem-solving,Advanced,70.0,56,1760689755679,soft_skills
+Time Management & Attention to Detail,Intermediate,60.0,56,1760689755679,soft_skills
+Adaptability & Quick Learning,Intermediate,65.0,56,1760689755679,soft_skills
+Communication & Storytelling,Advanced,80.0,56,1760689851620,soft_skills
+Teamwork & Collaboration,Advanced,75.0,56,1760689851620,soft_skills
+Creativity & Problem-solving,Advanced,70.0,56,1760689851620,soft_skills
+Time Management & Attention to Detail,Intermediate,60.0,56,1760689851620,soft_skills
+Adaptability & Quick Learning,Advanced,70.0,56,1760689851620,soft_skills
+Project Planning,Intermediate,60.0,57,1760689864326,soft_skills
+Team Delegation,Intermediate,60.0,57,1760689864326,soft_skills
+Communication,Advanced,80.0,57,1760689864326,soft_skills
+Idea Pitching & Collaboration,Intermediate,60.0,55,1760689881294,soft_skills
+Time Management,Intermediate,60.0,55,1760689881294,soft_skills
+Ability to plan and manage projects,Intermediate,55.0,57,1760689912731,soft_skills
+Communication and content delivery skills,Advanced,70.0,57,1760689912731,soft_skills
+Ability to manage and delegate team tasks,Intermediate,60.0,57,1760689912731,soft_skills
+Take a photo,Beginner,30.0,57,1760689912731,soft_skills
+Public Speaking,Intermediate,70.0,58,1760878451941,soft_skills
+Team Coordination,Intermediate,70.0,58,1760878451941,soft_skills
+Event Planning,Intermediate,65.0,58,1760878451941,soft_skills
+Bilingual Communication,Advanced,80.0,58,1760878451941,soft_skills
+Administrative Support,Intermediate,65.0,58,1760878451941,soft_skills
+Problem Solving,Advanced,85.0,59,1760943918829,soft_skills
+Analytical Skills,Advanced,85.0,59,1760943918829,soft_skills
+Customer Service,Advanced,90.0,59,1760943918829,soft_skills
+Time Management,Advanced,80.0,59,1760943918829,soft_skills
+Organization,Advanced,80.0,59,1760943918829,soft_skills
+Inventory Management,Advanced,80.0,59,1760943918829,soft_skills
+Data Entry,Intermediate,70.0,59,1760943918829,soft_skills
+Problem Solving,Advanced,80.0,60,1760943981578,soft_skills
+Analytical Skills,Intermediate,70.0,60,1760943981578,soft_skills
+Organization,Intermediate,65.0,60,1760943981578,soft_skills
+Time Management,Intermediate,65.0,60,1760943981578,soft_skills
+Customer Service,Advanced,75.0,60,1760943981578,soft_skills
+Social Media Management,Intermediate,60.0,60,1760943981578,soft_skills
+Problem Solving,Expert,95.0,61,1760956915046,soft_skills
+Attention to Detail,Advanced,85.0,61,1760956915046,soft_skills
+Communication,Advanced,80.0,61,1760956915046,soft_skills
+Collaboration,Advanced,80.0,61,1760956915046,soft_skills
+Communication,Advanced,85.0,62,1761015801597,soft_skills
+Team Collaboration,Advanced,85.0,62,1761015801597,soft_skills
+Client Engagement,Advanced,80.0,62,1761015801597,soft_skills
+Decision-Making,Intermediate,70.0,62,1761015801597,soft_skills
+Storytelling,Intermediate,70.0,62,1761015801597,soft_skills
+Cross-Cultural Adaptation,Intermediate,75.0,62,1761015801597,soft_skills
+Communication,Advanced,85.0,62,1761016732393,soft_skills
+Teamwork,Advanced,85.0,62,1761016732393,soft_skills
+Client engagement,Intermediate,70.0,62,1761016732393,soft_skills
+Requirements gathering,Intermediate,70.0,62,1761016732393,soft_skills
+Adaptability,Advanced,80.0,62,1761016732393,soft_skills
+Problem Solving,Expert,90.0,61,1761017207922,soft_skills
+Collaboration,Advanced,80.0,61,1761017207922,soft_skills
+Communication,Advanced,80.0,61,1761017207922,soft_skills
+Attention to Detail,Advanced,75.0,61,1761017207922,soft_skills
+Risk Management,Advanced,75.0,61,1761017207922,soft_skills
+Problem Solving,Expert,90.0,61,1761299730848,soft_skills
+Collaboration,Advanced,80.0,61,1761299730848,soft_skills
+Communication,Advanced,80.0,61,1761299730848,soft_skills
+Attention to Detail,Advanced,85.0,61,1761299730848,soft_skills
+Customer Service,Expert,90.0,24,1761536612482,soft_skills
+Team Leadership,Advanced,80.0,24,1761536612482,soft_skills
+Communication,Expert,90.0,24,1761536612482,soft_skills
+Analytical Thinking,Advanced,80.0,63,1761563204683,soft_skills
+Research,Advanced,75.0,63,1761563204683,soft_skills
+Communication,Intermediate,70.0,63,1761563204683,soft_skills
+Research,Intermediate,60.0,64,1761711805580,soft_skills
+Team collaboration,Intermediate,60.0,64,1761711805580,soft_skills
+Leadership,Expert,,12,1761737685422,soft_skills
+Critical Thinking,Advanced,,12,1761737685422,soft_skills
+Communication,Advanced,,12,1761737685422,soft_skills
+Teamwork,Advanced,,12,1761737685422,soft_skills
+Collaboration,Strong,,65,1761790081236,soft_skills
+Agile methodology,Proficient,,65,1761790081236,soft_skills
+Mentorship,Proficient,,65,1761790081236,soft_skills
+Continuous learning,Strong,,65,1761790081236,soft_skills
+Communication,Outstanding,,66,1761791782304,soft_skills
+Research & Analysis,Strong,,66,1761791782304,soft_skills
+Project Management,Proficient,,66,1761791782304,soft_skills
+Cross-cultural Collaboration,Strong,,66,1761791782304,soft_skills
+Community Engagement,Proficient,,66,1761791782304,soft_skills
+Strategic communication,Outstanding,,67,1761792492896,soft_skills
+Stakeholder engagement,Outstanding,,67,1761792492896,soft_skills
+Problem-solving,Strong,,67,1761792492896,soft_skills
+Adaptability,Strong,,67,1761792492896,soft_skills
+Empathy,Proficient,,67,1761792492896,soft_skills
+Facilitation,Strong,,67,1761792492896,soft_skills
+Stakeholder Engagement,Outstanding,,68,1762167836842,soft_skills
+Communication,Strong,,68,1762167836842,soft_skills
+Collaboration,Strong,,68,1762167836842,soft_skills
+Leadership,Outstanding,,69,1762415067297,soft_skills
+Stakeholder Engagement,Strong,,69,1762415067297,soft_skills
+Strategic Planning,Outstanding,,69,1762415067297,soft_skills
+Relationship Management,Outstanding,,69,1762415067297,soft_skills
+Leadership,Outstanding,,70,1762418593592,soft_skills
+Communication,Strong,,70,1762418593592,soft_skills
+Teamwork,Strong,,70,1762418593592,soft_skills
+Analytical,Advanced,,21,1762786886281,soft_skills
+Meticulous,Advanced,,21,1762786886281,soft_skills
+Mentoring,Advanced,,21,1762786886281,soft_skills
+Attention to detail,Intermediate,,71,1762829598215,soft_skills
+Analytical thinking,Intermediate,,71,1762829598215,soft_skills
+Team collaboration,Intermediate,,71,1762829598215,soft_skills
+Problem-solving,Intermediate,,71,1762829598215,soft_skills
+Presentation,Advanced,,72,1762999432595,soft_skills
+Customer Relationship Management,Advanced,,72,1762999432595,soft_skills
+Resilience,Intermediate,,72,1762999432595,soft_skills
+Emotional Intelligence,Intermediate,,72,1762999432595,soft_skills
+Bilingual Communication,Advanced,,73,1763011378910,soft_skills
+Adaptability,Advanced,,73,1763011378910,soft_skills
+Collaboration,Intermediate,,73,1763011378910,soft_skills
+Communication,Expert,,4,1763426338160,soft_skills
+Leadership,Advanced,,4,1763426338160,soft_skills
+Negotiation,Advanced,,4,1763426338160,soft_skills
+Problem Solving,Advanced,,4,1763426338160,soft_skills
+Teamwork,Expert,,74,1763439292146,soft_skills
+Interpersonal,Expert,,74,1763439292146,soft_skills
+Multi-tasking,Expert,,74,1763439292146,soft_skills
+Planning,Expert,,74,1763439292146,soft_skills
+Adaptability,Expert,,74,1763439292146,soft_skills
+Problem Solving,Expert,,74,1763439292146,soft_skills
+Communication,Expert,,74,1763439292146,soft_skills
+Leadership,Intermediate,,74,1763439292146,soft_skills
+Training 1-1 and Group,Intermediate,,74,1763439292146,soft_skills
+Creativity,Intermediate,,74,1763439292146,soft_skills
+Presentation,Intermediate,,74,1763439292146,soft_skills
+Teamwork,Advanced,,74,1763439405082,soft_skills
+Interpersonal,Advanced,,74,1763439405082,soft_skills
+Multi-tasking,Advanced,,74,1763439405082,soft_skills
+Planning,Advanced,,74,1763439405082,soft_skills
+Adaptability,Advanced,,74,1763439405082,soft_skills
+Problem Solving,Advanced,,74,1763439405082,soft_skills
+Communication,Advanced,,74,1763439405082,soft_skills
+Creativity,Intermediate,,74,1763439405082,soft_skills
+Leadership,Intermediate,,74,1763439405082,soft_skills
+Presentation,Intermediate,,74,1763439405082,soft_skills
+Training,Intermediate,,74,1763439405082,soft_skills
+Communication,Intermediate,,75,1763599294846,soft_skills
+Presentation,Intermediate,,75,1763599294846,soft_skills
+Creativity,Intermediate,,75,1763599294846,soft_skills
+Analytical skills,Intermediate,,75,1763599294846,soft_skills
+Stakeholder management,Advanced,,76,1763718531144,soft_skills
+Agile facilitation,Advanced,,76,1763718531144,soft_skills
+Communication,Advanced,,76,1763718531144,soft_skills
+Product strategy,Advanced,,76,1763718531144,soft_skills
+Problem-solving,Advanced,,77,1763978959692,soft_skills
+Customer service,Advanced,,77,1763978959692,soft_skills
+Adaptability,Advanced,,77,1763978959692,soft_skills
+Communication,Advanced,,77,1763978959692,soft_skills
+Attention to detail,Advanced,,78,1764037995543,soft_skills
+Problem-solving,Intermediate,,78,1764037995543,soft_skills
+Communication,Intermediate,,78,1764037995543,soft_skills
+Attention to detail,Advanced,,78,1764120241069,soft_skills
+Collaboration,Advanced,,78,1764120241069,soft_skills
+Communication,Intermediate,,78,1764120241069,soft_skills
+Problem-solving,Intermediate,,78,1764120241069,soft_skills
+Adaptability,Intermediate,,78,1764120241069,soft_skills
+Leadership,Advanced,,79,1764509346202,soft_skills
+Coordinating Ability,Advanced,,79,1764509346202,soft_skills
+Time Management,Advanced,,79,1764509346202,soft_skills
+Teamwork,Advanced,,79,1764509346202,soft_skills
+Communication,Advanced,,79,1764509346202,soft_skills
+Tutoring,Intermediate,,79,1764509346202,soft_skills
+Presentation,Intermediate,,79,1764509346202,soft_skills
+Stakeholder engagement,Advanced,,80,1764559473987,soft_skills
+Analytical storytelling,Advanced,,80,1764559473987,soft_skills
+Communication,Advanced,,80,1764559473987,soft_skills
+Leadership,Intermediate,,80,1764559473987,soft_skills
+Business analysis,Advanced,,80,1764559473987,soft_skills
+Communication,Advanced,,81,1764734604345,soft_skills
+Collaboration,Advanced,,81,1764734604345,soft_skills
+Team Leadership,Advanced,,82,1765039382163,soft_skills
+Strategy,Intermediate,,82,1765039382163,soft_skills
+Event Planning,Intermediate,,82,1765039382163,soft_skills
+Self-management,Advanced,,83,1765164693926,soft_skills
+Team-work,Advanced,,83,1765164693926,soft_skills
+Public speaking,Intermediate,,83,1765164693926,soft_skills
+Presenting,Intermediate,,83,1765164693926,soft_skills
+Critical thinking,Advanced,,83,1765164693926,soft_skills
+Team collaboration,Advanced,,84,1765197036664,soft_skills
+Time management,Advanced,,84,1765197036664,soft_skills
+Communication,Advanced,,84,1765197036664,soft_skills
+Multitasking under pressure,Advanced,,84,1765197036664,soft_skills
+Teamwork,Advanced,,85,1765288018811,soft_skills
+Problem solving,Advanced,,85,1765288018811,soft_skills
+Debate,Intermediate,,85,1765288018811,soft_skills
+English,Advanced,,85,1765288018811,soft_skills
+Vietnamese,Expert,,85,1765288018811,soft_skills
+Teamwork,Advanced,,86,1765333821773,soft_skills
+Problem solving,Advanced,,86,1765333821773,soft_skills
+Debate,Intermediate,,86,1765333821773,soft_skills
+Communication,Advanced,,86,1765333821773,soft_skills
+Leadership,Advanced,,87,1765334157642,soft_skills
+Team coordination,Intermediate,,87,1765334157642,soft_skills
+Conflict resolution,Intermediate,,87,1765334157642,soft_skills
+Customer Service,Advanced,,87,1765334157642,soft_skills
+Leadership,Advanced,,87,1765334219713,soft_skills
+Team Coordination,Advanced,,87,1765334219713,soft_skills
+Conflict Resolution,Intermediate,,87,1765334219713,soft_skills
+Customer Service,Advanced,,87,1765334219713,soft_skills
+English Communication,Intermediate,,87,1765334219713,soft_skills
+Leadership & Management,Advanced,,87,1765334240405,soft_skills
+Customer Service,Advanced,,87,1765334240405,soft_skills
+Conflict Resolution,Intermediate,,87,1765334240405,soft_skills
+Service & Sales,Intermediate,,87,1765334240405,soft_skills
+Leadership,Advanced,,87,1765334277646,soft_skills
+Team Coordination,Advanced,,87,1765334277646,soft_skills
+Conflict Resolution,Intermediate,,87,1765334277646,soft_skills
+Customer Service,Advanced,,87,1765334277646,soft_skills
+Communication,Advanced,,87,1765334277646,soft_skills
+Leadership,Advanced,,87,1765334312223,soft_skills
+Team Coordination,Advanced,,87,1765334312223,soft_skills
+Conflict Resolution,Intermediate,,87,1765334312223,soft_skills
+Customer Service,Advanced,,87,1765334312223,soft_skills
+Personal Development,Intermediate,,88,1765337136110,soft_skills
+Time Management,Advanced,,88,1765337136110,soft_skills
+Teamwork,Intermediate,,89,1765363852351,soft_skills
+Problem-solving,Intermediate,,89,1765363852351,soft_skills
+Time management,Intermediate,,89,1765363852351,soft_skills
+Communication skills,Intermediate,,89,1765363852351,soft_skills
+Communication skills,Advanced,,89,1765363945818,soft_skills
+Teamwork,Advanced,,89,1765363945818,soft_skills
+Problem-solving,Intermediate,,89,1765363945818,soft_skills
+Time management,Intermediate,,89,1765363945818,soft_skills
+Leadership,Expert,,7,1765522676643,soft_skills
+Communication,Advanced,,7,1765522676643,soft_skills
+Analytical thinking,Advanced,,7,1765522676643,soft_skills
+Troubleshooting,Advanced,,7,1765522676643,soft_skills
+Leadership,Advanced,,7,1765523103953,soft_skills
+Communication,Advanced,,7,1765523103953,soft_skills
+Analytical Thinking,Advanced,,7,1765523103953,soft_skills
+Problem-solving,Expert,,90,1765535838080,soft_skills
+Analytical Thinking,Expert,,90,1765535838080,soft_skills
+Communication,Advanced,,90,1765535838080,soft_skills
+Adaptability,Advanced,,90,1765535838080,soft_skills
+Leadership,Expert,,91,1765768078889,soft_skills
+Client Relationship Management,Expert,,91,1765768078889,soft_skills
+Strategic Planning,Advanced,,91,1765768078889,soft_skills
+Collaboration,Advanced,,91,1765768078889,soft_skills
+Leadership,Expert,,91,1765768130387,soft_skills
+Strategic Planning,Expert,,91,1765768130387,soft_skills
+Communication,Advanced,,91,1765768130387,soft_skills
+Client Relationship,Advanced,,91,1765768130387,soft_skills
+Team Management,Expert,,91,1765768130387,soft_skills
+Leadership,Expert,,91,1765768207678,soft_skills
+Strategic Planning,Expert,,91,1765768207678,soft_skills
+Client Relationship Management,Advanced,,91,1765768207678,soft_skills
+Communication,Expert,,91,1765768207678,soft_skills
+Team Collaboration,Advanced,,91,1765768207678,soft_skills
+Leadership,Advanced,,91,1765768605656,soft_skills
+Strategic Planning,Expert,,91,1765768605656,soft_skills
+Client Relationship,Expert,,91,1765768605656,soft_skills
+Communication,Expert,,91,1765768605656,soft_skills
+Negotiation,Advanced,,91,1765768605656,soft_skills
+Leadership,Expert,,91,1765780343020,soft_skills
+Stakeholder Management,Expert,,91,1765780343020,soft_skills
+Consulting & Coaching,Advanced,,91,1765780343020,soft_skills
+Public Speaking,Advanced,,91,1765780343020,soft_skills
+Collaboration,Advanced,,92,1765809579263,soft_skills
+Problem-solving,Advanced,,92,1765809579263,soft_skills
+Detail-oriented,Advanced,,92,1765809579263,soft_skills
+Adaptability,Advanced,,92,1765809579263,soft_skills
+Mentoring,Advanced,,92,1765809579263,soft_skills
+Debugging,Advanced,,92,1765811507838,soft_skills
+Collaboration,Advanced,,92,1765811507838,soft_skills
+Mentoring,Advanced,,92,1765811507838,soft_skills
+Problem-solving,Advanced,,92,1765811507838,soft_skills
+Adaptability,Advanced,,92,1765811507838,soft_skills
+Leadership,Advanced,,7,1765875551379,soft_skills
+Communication,Advanced,,7,1765875551379,soft_skills
+Analysis & Optimization,Advanced,,7,1765875551379,soft_skills
+Problem-solving,Advanced,,93,1765876212765,soft_skills
+Communication,Advanced,,93,1765876212765,soft_skills
+Team coordination,Advanced,,93,1765876212765,soft_skills
+Mentoring,Advanced,,93,1765876212765,soft_skills
+Communication,Advanced,,25,1765877317442,soft_skills
+Teamwork,Advanced,,25,1765877317442,soft_skills
+Adaptability,Advanced,,25,1765877317442,soft_skills
+Leadership,Intermediate,,25,1765877317442,soft_skills
+Teamwork,Advanced,,25,1765877375294,soft_skills
+Communication,Advanced,,25,1765877375294,soft_skills
+Adaptability,Intermediate,,25,1765877375294,soft_skills
+Public Speaking and Team Coordination,Intermediate,,58,1765985962026,soft_skills
+Event Planning and Promotion,Intermediate,,58,1765985962026,soft_skills
+Administrative Support & Communication,Intermediate,,58,1765985962026,soft_skills
+Bilingual Communication,Advanced,,58,1765985962026,soft_skills
+Agile collaboration,Advanced,,94,1766384952415,soft_skills
+Agile/Scrum methodologies,Intermediate,,28,1766970122432,soft_skills
+Analytical thinking,Advanced,,28,1766970122432,soft_skills
+Attention to detail,Advanced,,28,1766970122432,soft_skills
+Communication,Intermediate,,28,1766970122432,soft_skills
+Collaboration,Intermediate,,28,1766970122432,soft_skills
+Agile/Scrum,Advanced,,28,1766970472090,soft_skills
+Test Planning,Advanced,,28,1766970472090,soft_skills
+Cross-functional Communication,Intermediate,,28,1766970472090,soft_skills
+Agile/Scrum,Advanced,,28,1766970531512,soft_skills
+Test planning,Advanced,,28,1766970531512,soft_skills
+Requirement analysis,Advanced,,28,1766970531512,soft_skills
+Bug tracking,Advanced,,28,1766970531512,soft_skills
+Continuous improvement,Advanced,,28,1766970531512,soft_skills
+Cross-functional collaboration,Advanced,,28,1766970531512,soft_skills
+Collaboration,Advanced,,28,1766970593003,soft_skills
+Communication,Advanced,,28,1766970593003,soft_skills
+Analytical Thinking,Advanced,,28,1766970593003,soft_skills
+Test leadership,Expert,,95,1766985315025,soft_skills
+Work under pressure,Expert,,95,1766985315025,soft_skills
+Prioritization,Expert,,95,1766985315025,soft_skills
+Communication,Advanced,,95,1766985315025,soft_skills
+Adaptability,Advanced,,95,1766985315025,soft_skills
+English proficiency,Intermediate,,95,1766985315025,soft_skills
+Analytical thinking,Advanced,,96,1767077621872,soft_skills
+Teamwork,Advanced,,96,1767077621872,soft_skills
+Adaptability,Advanced,,96,1767077621872,soft_skills
+Communication,Advanced,,96,1767077621872,soft_skills
+Written communication,Advanced,,96,1767611915426,soft_skills
+Verbal communication,Intermediate,,96,1767611915426,soft_skills
+Analytical thinking,Advanced,,96,1767611915426,soft_skills
+Teamwork,Advanced,,96,1767611915426,soft_skills
+Adaptability,Advanced,,96,1767611915426,soft_skills
+Problem Solving,Advanced,,97,1767670162545,soft_skills
+Fast Learning,Advanced,,97,1767670162545,soft_skills
+Critical Thinking,Advanced,,97,1767670162545,soft_skills
+Communication,Advanced,,97,1767670162545,soft_skills
+Work under pressure,Advanced,,97,1767670162545,soft_skills
+UI/UX,Advanced,,97,1767670162545,soft_skills
+Agile Project Management,Expert,,97,1767670162545,soft_skills
+Attention to detail,Advanced,,98,1768204749541,soft_skills
+Teamwork ability,Advanced,,98,1768204749541,soft_skills
+Fast learning,Intermediate,,98,1768204749541,soft_skills
+Responsible,Advanced,,98,1768204749541,soft_skills
+Testing methodology knowledge,Advanced,,98,1768204749541,soft_skills
+Communication,Advanced,,99,1768205001846,soft_skills
+Leadership,Intermediate,,99,1768205001846,soft_skills
+Teamwork,Intermediate,,99,1768205001846,soft_skills
+Communication,Advanced,,100,1768205136192,soft_skills
+Teamwork,Advanced,,100,1768205136192,soft_skills
+Detail-oriented,Advanced,,100,1768205136192,soft_skills
+Analytical Thinking,Advanced,,100,1768205136192,soft_skills
+Effective Communication,Advanced,,101,1768225185605,soft_skills
+Problem Solving,Advanced,,101,1768225185605,soft_skills
+Collaboration with Cross-functional Teams,Advanced,,101,1768225185605,soft_skills
+Attention to Detail,Advanced,,101,1768225185605,soft_skills
+Leadership,Advanced,,79,1768225331102,soft_skills
+Coordinating Ability,Advanced,,79,1768225331102,soft_skills
+Time Management,Advanced,,79,1768225331102,soft_skills
+Teamwork,Advanced,,79,1768225331102,soft_skills
+Communication,Advanced,,79,1768225331102,soft_skills
+Tutoring,Intermediate,,79,1768225331102,soft_skills
+Presentation,Intermediate,,79,1768225331102,soft_skills
+Collaboration,Advanced,,102,1768227890059,soft_skills
+Communication,Advanced,,102,1768227890059,soft_skills
+Attention to Detail,Advanced,,102,1768227890059,soft_skills
+Documentation,Advanced,,102,1768227890059,soft_skills
+Requirement Analysis,Advanced,,102,1768227890059,soft_skills
+Problem-solving,Expert,,20,1768227956938,soft_skills
+Team Leadership,Expert,,20,1768227956938,soft_skills
+Agile Methodologies,Advanced,,20,1768227956938,soft_skills
+Cross-functional Collaboration,Advanced,,20,1768227956938,soft_skills
+Mentoring,Advanced,,20,1768227956938,soft_skills
+Team Collaboration,Advanced,,102,1768228010447,soft_skills
+Communication,Advanced,,102,1768228010447,soft_skills
+Analysis,Advanced,,102,1768228010447,soft_skills
+Documentation,Advanced,,102,1768228010447,soft_skills
+Teamwork,Advanced,,103,1768294188793,soft_skills
+Communication,Advanced,,103,1768294188793,soft_skills
+Attention to detail,Advanced,,103,1768294188793,soft_skills
+Communication,Advanced,,104,1768300856822,soft_skills
+Teamwork,Advanced,,104,1768300856822,soft_skills
+Analytical Thinking,Advanced,,104,1768300856822,soft_skills
+Attention to Detail,Advanced,,104,1768300856822,soft_skills
+Leadership,Expert,,105,1768300934765,soft_skills
+Communication,Advanced,,105,1768300934765,soft_skills
+Problem Solving,Advanced,,105,1768300934765,soft_skills
+Planning,Advanced,,105,1768300934765,soft_skills
+Critical Thinking,Advanced,,105,1768300934765,soft_skills
+Communication,Advanced,,102,1768301145125,soft_skills
+Teamwork,Advanced,,102,1768301145125,soft_skills
+Analytical Thinking,Intermediate,,102,1768301145125,soft_skills
+Attention to Detail,Advanced,,102,1768301145125,soft_skills
+Effective Communication,Advanced,,101,1768301227240,soft_skills
+Problem Solving,Advanced,,101,1768301227240,soft_skills
+Collaboration with Cross-functional Teams,Advanced,,101,1768301227240,soft_skills
+Attention to Detail,Advanced,,101,1768301227240,soft_skills
+Analytical thinking,Advanced,,96,1768301289342,soft_skills
+Teamwork,Intermediate,,96,1768301289342,soft_skills
+Adaptability,Intermediate,,96,1768301289342,soft_skills
+Written communication,Intermediate,,96,1768301289342,soft_skills
+Teamwork,Advanced,,102,1768301330793,soft_skills
+Communication,Advanced,,102,1768301330793,soft_skills
+Documentation,Advanced,,102,1768301330793,soft_skills
+Analytical Thinking,Advanced,,102,1768301330793,soft_skills
+Communication,Advanced,,102,1768310941998,soft_skills
+Collaboration,Advanced,,102,1768310941998,soft_skills
+Analytical Thinking,Advanced,,102,1768310941998,soft_skills
+Requirement Analysis,Advanced,,102,1768310941998,soft_skills
+Problem-solving,Expert,,90,1769052233511,soft_skills
+Adaptability,Advanced,,90,1769052233511,soft_skills
+Communication,Advanced,,90,1769052233511,soft_skills
+Analytical thinking,Advanced,,106,1769064719543,soft_skills
+Teamwork,Intermediate,,106,1769064719543,soft_skills
+Adaptability,Intermediate,,106,1769064719543,soft_skills
+Written communication,Intermediate,,106,1769064719543,soft_skills
+Communication,Advanced,,107,1769157883790,soft_skills
+Collaboration,Advanced,,107,1769157883790,soft_skills
+Organizational,Intermediate,,107,1769157883790,soft_skills
+Communication,Advanced,,108,1769166356912,soft_skills
+Collaboration,Advanced,,108,1769166356912,soft_skills
+Analytical Thinking,Advanced,,108,1769166356912,soft_skills
+Attention to Detail,Advanced,,108,1769166356912,soft_skills
+Communication,Advanced,,109,1769169310641,soft_skills
+Teamwork,Advanced,,109,1769169310641,soft_skills
+Attention to Detail,Advanced,,109,1769169310641,soft_skills
+Collaboration,Advanced,,109,1769169310641,soft_skills
+Logical thinking,Expert,,93,1769472937543,soft_skills
+Problem-solving,Expert,,93,1769472937543,soft_skills
+Team collaboration,Advanced,,93,1769472937543,soft_skills
+Mentoring,Advanced,,93,1769472937543,soft_skills
+Analytical thinking,Expert,,90,1769496132126,soft_skills
+Problem-solving,Expert,,90,1769496132126,soft_skills
+Adaptability,Advanced,,90,1769496132126,soft_skills
+Communication,Advanced,,90,1769496132126,soft_skills
+Research,Advanced,,90,1769496132126,soft_skills
+Analytical Thinking,Advanced,,10,1769661675068,soft_skills
+Communication,Advanced,,10,1769661675068,soft_skills
+Attention to Detail,Intermediate,,10,1769661675068,soft_skills
+Communication,Advanced,,100,1769743114981,soft_skills
+Team collaboration,Advanced,,100,1769743114981,soft_skills
+Problem-solving,Advanced,,100,1769743114981,soft_skills
+Collaboration,Advanced,,65,1769764151753,soft_skills
+Mentorship,Intermediate,,65,1769764151753,soft_skills
+Continuous learning,Advanced,,65,1769764151753,soft_skills
+Problem-solving,Intermediate,,65,1769764151753,soft_skills
+Team Collaboration,Advanced,,100,1770000367449,soft_skills
+Communication,Advanced,,100,1770000367449,soft_skills
+Analytical Thinking,Advanced,,100,1770000367449,soft_skills
+Leadership,Expert,,110,1770480528604,soft_skills
+Analytical Thinking,Advanced,,110,1770480528604,soft_skills
+Accountability,Advanced,,110,1770480528604,soft_skills
+Stakeholder Management,Advanced,,110,1770480528604,soft_skills
+Adaptability,Intermediate,,110,1770480528604,soft_skills
+Problem Solving,Advanced,,111,1770645524167,soft_skills
+Stakeholder Communication,Advanced,,111,1770645524167,soft_skills
+Adaptability,Intermediate,,111,1770645524167,soft_skills
+Customer Success Focus,Intermediate,,111,1770645524167,soft_skills
+Data-Driven & Customer Success Focus,Advanced,,111,1770645573729,soft_skills
+Problem Solving,Advanced,,111,1770645573729,soft_skills
+Stakeholder Communication,Advanced,,111,1770645573729,soft_skills
+Adaptability,Advanced,,111,1770645573729,soft_skills
+Team leadership & mentoring,Expert,,112,1771904249832,soft_skills
+Cross-functional collaboration,Expert,,112,1771904249832,soft_skills
+Agile / Scrum delivery,Advanced,,112,1771904249832,soft_skills
+Communication,Advanced,,112,1771904249832,soft_skills
+Flutter,Advanced,85.0,1,1759998111377,technical_skills
+Dart,Advanced,80.0,1,1759998111377,technical_skills
+Swift,Intermediate,60.0,1,1759998111377,technical_skills
+Kotlin,Intermediate,60.0,1,1759998111377,technical_skills
+Provider,Intermediate,65.0,1,1759998111377,technical_skills
+BLoC,Intermediate,65.0,1,1759998111377,technical_skills
+Riverpod,Intermediate,65.0,1,1759998111377,technical_skills
+Android Studio,Intermediate,70.0,1,1759998111377,technical_skills
+VS Code,Intermediate,70.0,1,1759998111377,technical_skills
+Xcode,Intermediate,65.0,1,1759998111377,technical_skills
+Git,Advanced,75.0,1,1759998111377,technical_skills
+Firebase,Intermediate,70.0,1,1759998111377,technical_skills
+SQLite,Intermediate,60.0,1,1759998111377,technical_skills
+RESTful APIs,Intermediate,70.0,1,1759998111377,technical_skills
+JSON,Intermediate,70.0,1,1759998111377,technical_skills
+Agile/Scrum,Intermediate,65.0,1,1759998111377,technical_skills
+ERP System Evaluation,Advanced,85.0,2,1759998769335,technical_skills
+SQL,Advanced,80.0,2,1759998769335,technical_skills
+Power BI,Advanced,85.0,2,1759998769335,technical_skills
+Odoo,Advanced,88.0,2,1759998769335,technical_skills
+Data Analysis,Advanced,90.0,2,1759998769335,technical_skills
+HTML/CSS,Intermediate,70.0,2,1759998769335,technical_skills
+Javascript,Intermediate,65.0,2,1759998769335,technical_skills
+Python,Intermediate,60.0,2,1759998769335,technical_skills
+Python,Advanced,85.0,3,1759999340602,technical_skills
+Matlab,Advanced,80.0,3,1759999340602,technical_skills
+Numpy,Intermediate,75.0,3,1759999340602,technical_skills
+Pandas,Intermediate,75.0,3,1759999340602,technical_skills
+TensorFlow,Intermediate,70.0,3,1759999340602,technical_skills
+Figma,Intermediate,70.0,3,1759999340602,technical_skills
+React.js,Intermediate,70.0,3,1759999340602,technical_skills
+Linux (Ubuntu),Intermediate,65.0,3,1759999340602,technical_skills
+"Microsoft Office (Excel, Word, PowerPoint)",Advanced,85.0,4,1760001071242,technical_skills
+"Agile Project Management tools (Monday, Trello, Jira)",Intermediate,75.0,4,1760001071242,technical_skills
+Design & Clip Creation software,Intermediate,70.0,4,1760001071242,technical_skills
+No-Code App: Glide App,Beginner,60.0,4,1760001071242,technical_skills
+"Microsoft Office: Excel, Word, PowerPoint",Advanced,80.0,4,1760001127938,technical_skills
+"Agile Project Management tools: Monday, Trello, Jira Atlassian",Intermediate,70.0,4,1760001127938,technical_skills
+Design and Clip Creation software,Beginner,50.0,4,1760001127938,technical_skills
+No Code App: Glide App,Beginner,50.0,4,1760001127938,technical_skills
+Apache Spark,Advanced,90.0,5,1760001497602,technical_skills
+Hadoop,Intermediate,70.0,5,1760001497602,technical_skills
+Kafka,Intermediate,70.0,5,1760001497602,technical_skills
+Airflow,Advanced,85.0,5,1760001497602,technical_skills
+Talend,Intermediate,65.0,5,1760001497602,technical_skills
+Amazon Redshift,Advanced,85.0,5,1760001497602,technical_skills
+Google BigQuery,Intermediate,70.0,5,1760001497602,technical_skills
+Snowflake,Intermediate,70.0,5,1760001497602,technical_skills
+Python,Advanced,85.0,5,1760001497602,technical_skills
+Scala,Intermediate,70.0,5,1760001497602,technical_skills
+Java,Intermediate,70.0,5,1760001497602,technical_skills
+SQL,Advanced,85.0,5,1760001497602,technical_skills
+AWS,Advanced,85.0,5,1760001497602,technical_skills
+GCP,Intermediate,70.0,5,1760001497602,technical_skills
+Azure,Intermediate,70.0,5,1760001497602,technical_skills
+PostgreSQL,Advanced,80.0,5,1760001497602,technical_skills
+MySQL,Advanced,80.0,5,1760001497602,technical_skills
+MongoDB,Intermediate,70.0,5,1760001497602,technical_skills
+Cassandra,Intermediate,70.0,5,1760001497602,technical_skills
+Docker,Intermediate,75.0,5,1760001497602,technical_skills
+Git,Advanced,80.0,5,1760001497602,technical_skills
+Jenkins,Intermediate,75.0,5,1760001497602,technical_skills
+MS Intune Entra ID & Autopilot,Advanced,85.0,6,1760001471313,technical_skills
+Jamf/Airwatch MDM,Intermediate,70.0,6,1760001471313,technical_skills
+SOE Win 10/11 Deployments,Advanced,80.0,6,1760001471313,technical_skills
+Microsoft Exchange Admin,Intermediate,75.0,6,1760001471313,technical_skills
+Basic Network Troubleshooting,Advanced,80.0,6,1760001471313,technical_skills
+Windows Server 2023/2025,Intermediate,70.0,6,1760001471313,technical_skills
+"Citrix, VMware, Sentinel One",Intermediate,65.0,6,1760001471313,technical_skills
+Webex Administration & Bomgar,Intermediate,65.0,6,1760001471313,technical_skills
+Windows Desktop Environment,Expert,90.0,6,1760001471313,technical_skills
+Active Directory Administration,Advanced,85.0,6,1760001471313,technical_skills
+SCCM/MECM deployments,Advanced,80.0,6,1760001471313,technical_skills
+ITSM Ticketing Tools (Freshworks),Intermediate,70.0,6,1760001471313,technical_skills
+Python,Advanced,80.0,3,1760001555963,technical_skills
+Matlab,Advanced,75.0,3,1760001555963,technical_skills
+NumPy,Intermediate,65.0,3,1760001555963,technical_skills
+Pandas,Intermediate,65.0,3,1760001555963,technical_skills
+TensorFlow,Advanced,70.0,3,1760001555963,technical_skills
+Figma,Intermediate,60.0,3,1760001555963,technical_skills
+React.js,Intermediate,60.0,3,1760001555963,technical_skills
+Linux (Ubuntu),Intermediate,55.0,3,1760001555963,technical_skills
+Selenium,Expert,90.0,7,1760002994028,technical_skills
+Playwright,Intermediate,70.0,7,1760002994028,technical_skills
+Appium,Advanced,80.0,7,1760002994028,technical_skills
+TestNG,Advanced,80.0,7,1760002994028,technical_skills
+JUnit,Advanced,80.0,7,1760002994028,technical_skills
+Python,Advanced,80.0,7,1760002994028,technical_skills
+Jenkins,Advanced,85.0,7,1760002994028,technical_skills
+GitLab CI,Intermediate,70.0,7,1760002994028,technical_skills
+GitHub Actions,Intermediate,70.0,7,1760002994028,technical_skills
+Jira,Expert,90.0,7,1760002994028,technical_skills
+TestRail,Advanced,80.0,7,1760002994028,technical_skills
+Zephyr,Advanced,80.0,7,1760002994028,technical_skills
+Testlink,Intermediate,70.0,7,1760002994028,technical_skills
+MTM server,Beginner,50.0,7,1760002994028,technical_skills
+Git,Advanced,85.0,7,1760002994028,technical_skills
+GitHub,Intermediate,70.0,7,1760002994028,technical_skills
+GitLab,Intermediate,70.0,7,1760002994028,technical_skills
+Postman,Intermediate,70.0,7,1760002994028,technical_skills
+SoapUI,Intermediate,70.0,7,1760002994028,technical_skills
+SQL,Intermediate,70.0,7,1760002994028,technical_skills
+MySQL,Intermediate,70.0,7,1760002994028,technical_skills
+Oracle,Intermediate,70.0,7,1760002994028,technical_skills
+PostgreSQL,Intermediate,70.0,7,1760002994028,technical_skills
+Functional Testing,Expert,90.0,7,1760002994028,technical_skills
+Regression Testing,Expert,90.0,7,1760002994028,technical_skills
+Exploratory Testing,Expert,90.0,7,1760002994028,technical_skills
+Usability Testing,Expert,90.0,7,1760002994028,technical_skills
+Agile/Scrum,Advanced,85.0,7,1760002994028,technical_skills
+SDLC,Advanced,85.0,7,1760002994028,technical_skills
+STLC,Advanced,85.0,7,1760002994028,technical_skills
+Marketing Strategy,Expert,90.0,8,1760007201087,technical_skills
+Market Research,Advanced,75.0,8,1760007201087,technical_skills
+Budget Management,Advanced,75.0,8,1760007201087,technical_skills
+OKR Design,Intermediate,60.0,9,1760007290148,technical_skills
+Budget Management,Advanced,75.0,9,1760007290148,technical_skills
+CRM Strategy,Advanced,75.0,9,1760007290148,technical_skills
+Digital Marketing,Expert,90.0,9,1760007290148,technical_skills
+Product Roadmapping,Intermediate,60.0,9,1760007290148,technical_skills
+Manual Testing,Expert,90.0,10,1760010233087,technical_skills
+"Automated Testing (Selenium, TestNG, JUnit)",Advanced,80.0,10,1760010233087,technical_skills
+"API Testing (Postman, REST Assured)",Advanced,80.0,10,1760010233087,technical_skills
+"Test Management Tools (Jira, TestRail)",Advanced,75.0,10,1760010233087,technical_skills
+"Version Control (Git, GitHub)",Intermediate,65.0,10,1760010233087,technical_skills
+CI/CD (Jenkins),Intermediate,60.0,10,1760010233087,technical_skills
+"Databases (MySQL, MongoDB)",Intermediate,60.0,10,1760010233087,technical_skills
+Agile/Scrum Methodologies,Advanced,80.0,10,1760010233087,technical_skills
+NIST SP 800-88,Advanced,80.0,11,1760011356037,technical_skills
+NIST 800-171,Advanced,75.0,11,1760011356037,technical_skills
+NIST Cyber Security Framework,Advanced,75.0,11,1760011356037,technical_skills
+Firewall configuration,Advanced,80.0,11,1760011356037,technical_skills
+VPN Security,Advanced,80.0,11,1760011356037,technical_skills
+IDS/IPS,Advanced,80.0,11,1760011356037,technical_skills
+PKI,Expert,90.0,11,1760011356037,technical_skills
+Multi-Factor Authentication,Advanced,80.0,11,1760011356037,technical_skills
+PowerShell,Advanced,80.0,11,1760011356037,technical_skills
+SolarWinds Suite,Intermediate,70.0,11,1760011356037,technical_skills
+VMware,Advanced,80.0,11,1760011356037,technical_skills
+Hyper-V,Advanced,80.0,11,1760011356037,technical_skills
+Active Directory,Advanced,80.0,11,1760011356037,technical_skills
+Azure AD,Intermediate,70.0,11,1760011356037,technical_skills
+Office 365,Intermediate,70.0,11,1760011356037,technical_skills
+Exchange,Advanced,80.0,11,1760011356037,technical_skills
+AWS,Intermediate,70.0,11,1760011356037,technical_skills
+Google Cloud Platform,Intermediate,70.0,11,1760011356037,technical_skills
+Marketing Strategy,Expert,90.0,12,1760015558385,technical_skills
+Market Research,Advanced,75.0,12,1760015558385,technical_skills
+Budget Management,Advanced,75.0,12,1760015558385,technical_skills
+Marketing Strategy,Expert,90.0,12,1760015600287,technical_skills
+Market Research,Advanced,75.0,12,1760015600287,technical_skills
+Budget Management,Advanced,75.0,12,1760015600287,technical_skills
+Google G Suite,Intermediate,60.0,13,1760015656063,technical_skills
+Analytics,Intermediate,65.0,13,1760015656063,technical_skills
+Microsoft Excel,Intermediate,70.0,14,1760015916021,technical_skills
+Microsoft Word,Advanced,80.0,14,1760015916021,technical_skills
+PowerPoint,Advanced,80.0,14,1760015916021,technical_skills
+Microsoft Word,Advanced,85.0,14,1760015976285,technical_skills
+Microsoft Excel,Intermediate,75.0,14,1760015976285,technical_skills
+Microsoft PowerPoint,Intermediate,75.0,14,1760015976285,technical_skills
+Monday.com,Intermediate,60.0,16,1760084158935,technical_skills
+Trello,Intermediate,60.0,16,1760084158935,technical_skills
+MS Project,Intermediate,55.0,16,1760084158935,technical_skills
+Jira,Intermediate,60.0,16,1760084158935,technical_skills
+Excel,Advanced,75.0,16,1760084158935,technical_skills
+Power BI,Intermediate,65.0,16,1760084158935,technical_skills
+Zoho CRM,Intermediate,60.0,16,1760084158935,technical_skills
+Apollo,Intermediate,60.0,16,1760084158935,technical_skills
+Dropcontact,Intermediate,60.0,16,1760084158935,technical_skills
+Zoho,Intermediate,70.0,16,1760084316257,technical_skills
+Apollo,Intermediate,65.0,16,1760084316257,technical_skills
+Dropcontact,Intermediate,65.0,16,1760084316257,technical_skills
+Jira,Intermediate,75.0,16,1760084316257,technical_skills
+Excel,Advanced,85.0,16,1760084316257,technical_skills
+Power BI,Intermediate,75.0,16,1760084316257,technical_skills
+Monday.com,Intermediate,75.0,16,1760084316257,technical_skills
+Trello,Intermediate,75.0,16,1760084316257,technical_skills
+MS Project,Beginner,60.0,16,1760084316257,technical_skills
+Event Marketing,Advanced,85.0,17,1760256028351,technical_skills
+Branding & PR,Advanced,85.0,17,1760256028351,technical_skills
+Production,Intermediate,65.0,17,1760256028351,technical_skills
+Copywriting & Story writing,Advanced,80.0,17,1760256028351,technical_skills
+Strategic & Crisis management,Advanced,80.0,17,1760256028351,technical_skills
+Creativity in Art,Intermediate,70.0,17,1760256028351,technical_skills
+Data-Driven Decision Making,Advanced,80.0,18,1760426276249,technical_skills
+Applying AI tools,Intermediate,60.0,18,1760426276249,technical_skills
+JIRA,Expert,90.0,19,1760430218242,technical_skills
+Confluence,Expert,90.0,19,1760430218242,technical_skills
+MS Office Suite,Expert,90.0,19,1760430218242,technical_skills
+"Agile (Scrum, Kanban)",Advanced,80.0,19,1760430218242,technical_skills
+Waterfall,Intermediate,60.0,19,1760430218242,technical_skills
+SDLC,Intermediate,60.0,19,1760430218242,technical_skills
+Figma,Intermediate,60.0,19,1760430218242,technical_skills
+Miro,Intermediate,60.0,19,1760430218242,technical_skills
+MS Visio,Intermediate,60.0,19,1760430218242,technical_skills
+Trello,Intermediate,60.0,19,1760430218242,technical_skills
+SQL,Intermediate,60.0,19,1760430218242,technical_skills
+API integration,Intermediate,60.0,19,1760430218242,technical_skills
+Firebase,Beginner,50.0,19,1760430218242,technical_skills
+CRM systems,Intermediate,60.0,19,1760430218242,technical_skills
+SQL,Beginner,40.0,19,1760430363155,technical_skills
+API integration,Intermediate,60.0,19,1760430363155,technical_skills
+Firebase,Intermediate,60.0,19,1760430363155,technical_skills
+CRM systems,Advanced,70.0,19,1760430363155,technical_skills
+JIRA,Advanced,80.0,19,1760430363155,technical_skills
+Confluence,Advanced,75.0,19,1760430363155,technical_skills
+Figma,Intermediate,65.0,19,1760430363155,technical_skills
+Miro,Intermediate,65.0,19,1760430363155,technical_skills
+MS Visio,Intermediate,60.0,19,1760430363155,technical_skills
+Trello,Advanced,80.0,19,1760430363155,technical_skills
+MS Office Suite,Advanced,85.0,19,1760430363155,technical_skills
+ReactJS,Expert,90.0,20,1760435526983,technical_skills
+Java (Spring Boot),Expert,90.0,20,1760435526983,technical_skills
+Node.js,Advanced,80.0,20,1760435526983,technical_skills
+AWS,Advanced,80.0,20,1760435526983,technical_skills
+Docker,Intermediate,75.0,20,1760435526983,technical_skills
+Jenkins,Intermediate,70.0,20,1760435526983,technical_skills
+Git,Advanced,85.0,20,1760435526983,technical_skills
+JavaScript (ES6+),Advanced,85.0,20,1760435526983,technical_skills
+MongoDB,Intermediate,75.0,20,1760435526983,technical_skills
+MySQL,Intermediate,75.0,20,1760435526983,technical_skills
+PostgreSQL,Intermediate,70.0,20,1760435526983,technical_skills
+Express,Intermediate,75.0,20,1760435526983,technical_skills
+CSS3,Intermediate,80.0,20,1760435526983,technical_skills
+HTML5,Intermediate,80.0,20,1760435526983,technical_skills
+SQL,Beginner,75.0,19,1760438271930,technical_skills
+API integration,Intermediate,80.0,19,1760438271930,technical_skills
+Firebase,Intermediate,75.0,19,1760438271930,technical_skills
+CRM systems,Intermediate,80.0,19,1760438271930,technical_skills
+JIRA,Advanced,90.0,19,1760438271930,technical_skills
+Confluence,Advanced,90.0,19,1760438271930,technical_skills
+Figma,Intermediate,80.0,19,1760438271930,technical_skills
+Miro,Intermediate,80.0,19,1760438271930,technical_skills
+MS Visio,Intermediate,80.0,19,1760438271930,technical_skills
+Trello,Intermediate,80.0,19,1760438271930,technical_skills
+MS Office Suite,Advanced,90.0,19,1760438271930,technical_skills
+Selenium,Expert,90.0,21,1760438794842,technical_skills
+Appium,Advanced,85.0,21,1760438794842,technical_skills
+Cypress,Advanced,80.0,21,1760438794842,technical_skills
+JUnit,Advanced,80.0,21,1760438794842,technical_skills
+TestNG,Advanced,80.0,21,1760438794842,technical_skills
+Java,Advanced,75.0,21,1760438794842,technical_skills
+Python,Intermediate,60.0,21,1760438794842,technical_skills
+JavaScript,Intermediate,60.0,21,1760438794842,technical_skills
+JIRA,Advanced,80.0,21,1760438794842,technical_skills
+TestRail,Advanced,80.0,21,1760438794842,technical_skills
+Postman,Advanced,80.0,21,1760438794842,technical_skills
+JMeter,Advanced,80.0,21,1760438794842,technical_skills
+Agile,Advanced,85.0,21,1760438794842,technical_skills
+Scrum,Advanced,85.0,21,1760438794842,technical_skills
+Waterfall,Advanced,75.0,21,1760438794842,technical_skills
+SQL,Intermediate,60.0,21,1760438794842,technical_skills
+JIRA,Advanced,85.0,19,1760502219404,technical_skills
+Confluence,Advanced,85.0,19,1760502219404,technical_skills
+Figma,Advanced,80.0,19,1760502219404,technical_skills
+Miro,Advanced,80.0,19,1760502219404,technical_skills
+MS Visio,Advanced,75.0,19,1760502219404,technical_skills
+Trello,Advanced,75.0,19,1760502219404,technical_skills
+MS Office Suite,Advanced,75.0,19,1760502219404,technical_skills
+SQL (basic queries),Beginner,30.0,19,1760502219404,technical_skills
+API integration knowledge,Intermediate,60.0,19,1760502219404,technical_skills
+Firebase,Intermediate,60.0,19,1760502219404,technical_skills
+CRM systems,Intermediate,60.0,19,1760502219404,technical_skills
+Technology proficiency,Intermediate,60.0,22,1760582645660,technical_skills
+Manual Testing,Expert,95.0,10,1760600776245,technical_skills
+Automated Testing,Expert,90.0,10,1760600776245,technical_skills
+Selenium,Advanced,80.0,10,1760600776245,technical_skills
+TestNG,Intermediate,70.0,10,1760600776245,technical_skills
+JUnit,Intermediate,70.0,10,1760600776245,technical_skills
+API Testing,Advanced,80.0,10,1760600776245,technical_skills
+Postman,Advanced,80.0,10,1760600776245,technical_skills
+REST Assured,Intermediate,75.0,10,1760600776245,technical_skills
+TestRail,Intermediate,70.0,10,1760600776245,technical_skills
+Jira,Advanced,85.0,10,1760600776245,technical_skills
+Git,Advanced,85.0,10,1760600776245,technical_skills
+GitHub,Advanced,85.0,10,1760600776245,technical_skills
+Jenkins,Intermediate,75.0,10,1760600776245,technical_skills
+MySQL,Intermediate,70.0,10,1760600776245,technical_skills
+MongoDB,Intermediate,70.0,10,1760600776245,technical_skills
+Agile/Scrum,Advanced,80.0,10,1760600776245,technical_skills
+Apache Spark,Expert,90.0,5,1760601722266,technical_skills
+Hadoop,Advanced,75.0,5,1760601722266,technical_skills
+Kafka,Advanced,70.0,5,1760601722266,technical_skills
+Airflow,Advanced,80.0,5,1760601722266,technical_skills
+Talend,Intermediate,60.0,5,1760601722266,technical_skills
+Amazon Redshift,Advanced,85.0,5,1760601722266,technical_skills
+Google BigQuery,Intermediate,60.0,5,1760601722266,technical_skills
+Snowflake,Intermediate,60.0,5,1760601722266,technical_skills
+Python,Expert,90.0,5,1760601722266,technical_skills
+Scala,Advanced,80.0,5,1760601722266,technical_skills
+Java,Intermediate,65.0,5,1760601722266,technical_skills
+SQL,Expert,90.0,5,1760601722266,technical_skills
+"AWS (S3, EMR, Redshift)",Advanced,80.0,5,1760601722266,technical_skills
+GCP,Intermediate,60.0,5,1760601722266,technical_skills
+Azure,Intermediate,60.0,5,1760601722266,technical_skills
+PostgreSQL,Advanced,80.0,5,1760601722266,technical_skills
+MySQL,Advanced,80.0,5,1760601722266,technical_skills
+MongoDB,Intermediate,60.0,5,1760601722266,technical_skills
+Cassandra,Beginner,50.0,5,1760601722266,technical_skills
+Docker,Intermediate,70.0,5,1760601722266,technical_skills
+Git,Advanced,80.0,5,1760601722266,technical_skills
+Jenkins,Intermediate,70.0,5,1760601722266,technical_skills
+Opera PMS,Intermediate,70.0,24,1760603841007,technical_skills
+Food & Beverage Management,Advanced,85.0,24,1760603841007,technical_skills
+Budget Planning,Advanced,80.0,24,1760603841007,technical_skills
+Human Resources Management,Intermediate,75.0,24,1760603841007,technical_skills
+Python,Intermediate,70.0,25,1760603963379,technical_skills
+PostgreSQL,Beginner,50.0,25,1760603963379,technical_skills
+Data Analysis & Visualization,Intermediate,65.0,25,1760603963379,technical_skills
+Figma,Beginner,50.0,25,1760603963379,technical_skills
+Artificial Intelligence & Machine Learning,Beginner,40.0,25,1760603963379,technical_skills
+Python,Intermediate,60.0,25,1760604049392,technical_skills
+PostgreSQL,Intermediate,55.0,25,1760604049392,technical_skills
+Data Analysis & Visualization,Intermediate,60.0,25,1760604049392,technical_skills
+Figma,Beginner,40.0,25,1760604049392,technical_skills
+Artificial Intelligence & Machine Learning,Beginner,45.0,25,1760604049392,technical_skills
+Opera,Intermediate,70.0,24,1760604366886,technical_skills
+Python,Intermediate,75.0,25,1760604683682,technical_skills
+PostgreSQL,Intermediate,70.0,25,1760604683682,technical_skills
+Data Analysis & Visualization,Intermediate,70.0,25,1760604683682,technical_skills
+Figma,Beginner,50.0,25,1760604683682,technical_skills
+Machine Learning,Beginner,50.0,25,1760604683682,technical_skills
+Barista Training,Beginner,40.0,25,1760604683682,technical_skills
+Media Relations,Expert,90.0,29,1760684989852,technical_skills
+Event Management,Advanced,80.0,29,1760684989852,technical_skills
+Crisis Communication,Advanced,85.0,29,1760684989852,technical_skills
+Corporate Messaging,Advanced,80.0,29,1760684989852,technical_skills
+Writing & Editing,Advanced,85.0,29,1760684989852,technical_skills
+Microsoft Office,Advanced,80.0,30,1760688616787,technical_skills
+Canva,Intermediate,70.0,30,1760688616787,technical_skills
+Capcut,Intermediate,60.0,30,1760688616787,technical_skills
+Microsoft Office,Advanced,80.0,31,1760688676646,technical_skills
+"Design tools (Capcut, Canva, ibisPaint X, Picsart)",Intermediate,60.0,31,1760688676646,technical_skills
+"Office IT (Word, Excel, PowerPoint)",Intermediate,70.0,32,1760688663808,technical_skills
+"Canva, Photoshop, Illustrator",Intermediate,65.0,32,1760688663808,technical_skills
+Premiere Video Editing,Intermediate,60.0,32,1760688663808,technical_skills
+"AI Tool Usage (Gemini, Chat GPT)",Intermediate,70.0,32,1760688663808,technical_skills
+"Microsoft Office Suite (Word, Excel, PowerPoint)",Advanced,85.0,33,1760688698580,technical_skills
+Market Research & Competitor Analysis,Intermediate,70.0,33,1760688698580,technical_skills
+"Design Tools (Canva, Photoshop, Illustrator, CapCut)",Intermediate,65.0,33,1760688698580,technical_skills
+Microsoft Office,Expert,90.0,34,1760688700298,technical_skills
+Social Media Management,Intermediate,75.0,34,1760688700298,technical_skills
+Photography,Intermediate,70.0,34,1760688700298,technical_skills
+Video Editing,Intermediate,65.0,34,1760688700298,technical_skills
+Visual Design,Intermediate,60.0,34,1760688700298,technical_skills
+Canva,Intermediate,60.0,35,1760688816460,technical_skills
+"Microsoft Office (Word, Excel, PowerPoint)",Intermediate,65.0,35,1760688816460,technical_skills
+Google Workspace,Intermediate,60.0,35,1760688816460,technical_skills
+Photoshop,Beginner,50.0,35,1760688816460,technical_skills
+Canva,Intermediate,60.0,36,1760688833742,technical_skills
+Microsoft Word,Advanced,70.0,36,1760688833742,technical_skills
+Microsoft Excel,Intermediate,60.0,36,1760688833742,technical_skills
+Canva,Intermediate,65.0,36,1760688867445,technical_skills
+Word,Intermediate,60.0,36,1760688867445,technical_skills
+Excel,Intermediate,60.0,36,1760688867445,technical_skills
+Canva,Intermediate,60.0,36,1760688898157,technical_skills
+Word,Advanced,70.0,36,1760688898157,technical_skills
+Excel,Advanced,75.0,36,1760688898157,technical_skills
+Marketing Campaign Planning & Implementation,Beginner,40.0,38,1760688898082,technical_skills
+Word,Beginner,30.0,38,1760688898082,technical_skills
+Excel,Beginner,30.0,38,1760688898082,technical_skills
+PowerPoint,Beginner,30.0,38,1760688898082,technical_skills
+Video Editing,Intermediate,60.0,39,1760688894921,technical_skills
+Content Writing,Intermediate,70.0,39,1760688894921,technical_skills
+Design & Visual,Intermediate,60.0,39,1760688894921,technical_skills
+Photography,Intermediate,60.0,39,1760688894921,technical_skills
+Layout,Intermediate,50.0,39,1760688894921,technical_skills
+Customer Service,Intermediate,60.0,39,1760688894921,technical_skills
+Canva,Intermediate,80.0,40,1760688908663,technical_skills
+Adobe Illustrator,Intermediate,75.0,40,1760688908663,technical_skills
+CapCut,Intermediate,70.0,40,1760688908663,technical_skills
+Microsoft Word,Intermediate,80.0,40,1760688908663,technical_skills
+Microsoft Excel,Intermediate,80.0,40,1760688908663,technical_skills
+Project management,Intermediate,60.0,41,1760688924773,technical_skills
+Marketing skill,Intermediate,60.0,41,1760688924773,technical_skills
+Advertising staff,Beginner,40.0,41,1760688924773,technical_skills
+Customer service,Intermediate,50.0,41,1760688924773,technical_skills
+Regulatory,Beginner,40.0,41,1760688924773,technical_skills
+Microsoft Office Suite,Advanced,80.0,42,1760688938599,technical_skills
+CapCut,Intermediate,65.0,42,1760688938599,technical_skills
+Photoshop,Intermediate,65.0,42,1760688938599,technical_skills
+Canva,Advanced,75.0,42,1760688938599,technical_skills
+Social media content writing,Advanced,75.0,42,1760688938599,technical_skills
+ChatGPT,Intermediate,60.0,42,1760688938599,technical_skills
+Gemini,Intermediate,60.0,42,1760688938599,technical_skills
+Market Research,Intermediate,70.0,43,1760688951069,technical_skills
+Branding Strategy,Intermediate,65.0,43,1760688951069,technical_skills
+Social Media Content Creation,Intermediate,70.0,43,1760688951069,technical_skills
+Livestream Hosting,Intermediate,65.0,43,1760688951069,technical_skills
+Office Technology,Intermediate,70.0,44,1760688965820,technical_skills
+Filming and photography,Intermediate,60.0,44,1760688965820,technical_skills
+Edit video,Intermediate,60.0,44,1760688965820,technical_skills
+Design and slide making,Intermediate,65.0,44,1760688965820,technical_skills
+MS Office,Advanced,85.0,45,1760688976521,technical_skills
+Design (video editing),Intermediate,60.0,45,1760688976521,technical_skills
+AI usage,Beginner,50.0,45,1760688976521,technical_skills
+Microsoft Office Suite,Advanced,85.0,33,1760688955200,technical_skills
+Market Research & Competitor Analysis,Intermediate,70.0,33,1760688955200,technical_skills
+Canva,Intermediate,60.0,33,1760688955200,technical_skills
+Photoshop (Basic),Beginner,40.0,33,1760688955200,technical_skills
+Illustrator (Basic),Beginner,40.0,33,1760688955200,technical_skills
+Capcut,Beginner,40.0,33,1760688955200,technical_skills
+Canva,Intermediate,75.0,40,1760688992563,technical_skills
+Adobe Illustrator,Beginner,50.0,40,1760688992563,technical_skills
+CapCut,Beginner,50.0,40,1760688992563,technical_skills
+Microsoft Word & Excel,Intermediate,70.0,40,1760688992563,technical_skills
+Financial Planning & Budgeting,Advanced,85.0,46,1760688997052,technical_skills
+Data Analysis & ROI Evaluation,Advanced,80.0,46,1760688997052,technical_skills
+Cost Optimization,Intermediate,70.0,46,1760688997052,technical_skills
+Livestream Performance Tracking,Intermediate,65.0,46,1760688997052,technical_skills
+Digital Marketing Coordination,Intermediate,75.0,46,1760688997052,technical_skills
+Content creation & brand storytelling,Advanced,80.0,46,1760688997052,technical_skills
+Creative ideation & campaign planning,Advanced,85.0,46,1760688997052,technical_skills
+"Microsoft Office (Excel, PowerPoint, Word)",Advanced,90.0,46,1760688997052,technical_skills
+Google Sheets & Data Visualization,Advanced,88.0,46,1760688997052,technical_skills
+Market Research,Intermediate,75.0,43,1760689005788,technical_skills
+Digital Performance Analysis,Beginner,60.0,43,1760689005788,technical_skills
+Content Creation,Intermediate,70.0,43,1760689005788,technical_skills
+Office Technology,Intermediate,60.0,44,1760689008868,technical_skills
+Filming and photography,Intermediate,60.0,44,1760689008868,technical_skills
+Edit video,Intermediate,60.0,44,1760689008868,technical_skills
+Design and slide making skills,Intermediate,60.0,44,1760689008868,technical_skills
+Event & Marketing Plan Execution,Intermediate,65.0,47,1760689141312,technical_skills
+Microsoft Office,Advanced,80.0,47,1760689141312,technical_skills
+Canva design,Intermediate,60.0,47,1760689141312,technical_skills
+Video editing (CapCut),Intermediate,60.0,47,1760689141312,technical_skills
+Integrated Marketing Communications,Advanced,80.0,48,1760689163736,technical_skills
+Campaign Planning & Execution,Advanced,70.0,48,1760689163736,technical_skills
+Computer & Office Skills,Intermediate,60.0,48,1760689163736,technical_skills
+"Design Skills (Canva, Capcut)",Advanced,70.0,48,1760689163736,technical_skills
+Microsoft Office,Intermediate,70.0,49,1760689298587,technical_skills
+Canva,Intermediate,65.0,49,1760689298587,technical_skills
+Branding,Intermediate,60.0,49,1760689298587,technical_skills
+Capcut,Beginner,50.0,49,1760689298587,technical_skills
+Content writing,Intermediate,60.0,49,1760689298587,technical_skills
+CRM software,Intermediate,70.0,50,1760689320596,technical_skills
+Project Management,Expert,90.0,50,1760689320596,technical_skills
+Market Research,Advanced,85.0,50,1760689320596,technical_skills
+Clinical Trial Management,Expert,90.0,50,1760689320596,technical_skills
+MS Office,Advanced,80.0,50,1760689320596,technical_skills
+Design Skills,Advanced,70.0,51,1760689480835,technical_skills
+AI Usage Skills,Intermediate,60.0,51,1760689480835,technical_skills
+"Office informatics (Word, Excel)",Intermediate,70.0,52,1760689493510,technical_skills
+Design (Canva),Intermediate,65.0,52,1760689493510,technical_skills
+Photography,Intermediate,60.0,52,1760689493510,technical_skills
+Edit video (Capcut),Intermediate,65.0,52,1760689493510,technical_skills
+Espresso machine operation,Advanced,85.0,53,1760689577258,technical_skills
+Stock inventory audits,Intermediate,70.0,53,1760689577258,technical_skills
+Cash handling & balancing,Intermediate,75.0,53,1760689577258,technical_skills
+Store cleaning & maintenance,Beginner,60.0,53,1760689577258,technical_skills
+"Microsoft Office (Word, Excel, PowerPoint)",Intermediate,70.0,54,1760689611457,technical_skills
+Canva (Basic Design),Beginner,50.0,54,1760689611457,technical_skills
+"Visual Design (Canva, CapCut)",Advanced,80.0,55,1760689635955,technical_skills
+"Content Creation (Video, Poster)",Advanced,75.0,55,1760689635955,technical_skills
+Social Media Management,Intermediate,70.0,55,1760689635955,technical_skills
+Brand Communication,Intermediate,65.0,55,1760689635955,technical_skills
+Digital Marketing,Intermediate,75.0,56,1760689668723,technical_skills
+Content Creation,Intermediate,70.0,56,1760689668723,technical_skills
+Market Research & Data Analysis,Intermediate,70.0,56,1760689668723,technical_skills
+Presentation & Pitching,Intermediate,70.0,56,1760689668723,technical_skills
+Design Tools,Beginner,50.0,56,1760689668723,technical_skills
+AI Tools,Beginner,50.0,56,1760689668723,technical_skills
+Digital Marketing,Intermediate,75.0,56,1760689700401,technical_skills
+Content Creation,Intermediate,70.0,56,1760689700401,technical_skills
+Market Research & Data Analysis,Intermediate,70.0,56,1760689700401,technical_skills
+Presentation & Pitching,Intermediate,65.0,56,1760689700401,technical_skills
+Design Tools,Beginner,50.0,56,1760689700401,technical_skills
+AI Tools,Beginner,50.0,56,1760689700401,technical_skills
+Digital Marketing,Intermediate,60.0,56,1760689755679,technical_skills
+Content Creation,Intermediate,65.0,56,1760689755679,technical_skills
+Market Research & Data Analysis,Intermediate,60.0,56,1760689755679,technical_skills
+Presentation & Pitching,Intermediate,55.0,56,1760689755679,technical_skills
+Design Tools,Beginner,40.0,56,1760689755679,technical_skills
+AI Tools,Beginner,30.0,56,1760689755679,technical_skills
+Digital Marketing,Intermediate,65.0,56,1760689851620,technical_skills
+Content Creation,Intermediate,60.0,56,1760689851620,technical_skills
+Market Research & Data Analysis,Intermediate,60.0,56,1760689851620,technical_skills
+Presentation & Pitching,Intermediate,55.0,56,1760689851620,technical_skills
+"Design Tools (Canva, Adobe Photoshop)",Beginner,40.0,56,1760689851620,technical_skills
+"AI Tools (ChatGPT, Gemini, HeyGen)",Beginner,45.0,56,1760689851620,technical_skills
+Digital Marketing,Intermediate,70.0,57,1760689864326,technical_skills
+Copy Writing,Intermediate,65.0,57,1760689864326,technical_skills
+Photography,Beginner,50.0,57,1760689864326,technical_skills
+"Visual Design (Canva, CapCut)",Intermediate,65.0,55,1760689881294,technical_skills
+"Content Creation (Video, Poster)",Intermediate,60.0,55,1760689881294,technical_skills
+Social Media Management,Intermediate,60.0,55,1760689881294,technical_skills
+Brand Communication,Intermediate,60.0,55,1760689881294,technical_skills
+Digital Marketing,Intermediate,60.0,57,1760689912731,technical_skills
+Copywriting,Intermediate,60.0,57,1760689912731,technical_skills
+Digital & Social Media Marketing,Intermediate,75.0,58,1760878451941,technical_skills
+Content Writing and Editing,Intermediate,70.0,58,1760878451941,technical_skills
+CapCut,Beginner,50.0,58,1760878451941,technical_skills
+Canva,Intermediate,60.0,58,1760878451941,technical_skills
+MS Office & Basic Data Entry,Intermediate,65.0,58,1760878451941,technical_skills
+Microsoft Excel,Advanced,85.0,59,1760943918829,technical_skills
+PowerBI,Intermediate,75.0,59,1760943918829,technical_skills
+SQL Workbench,Intermediate,70.0,59,1760943918829,technical_skills
+Microsoft PowerPoint,Intermediate,75.0,59,1760943918829,technical_skills
+Microsoft Word,Intermediate,75.0,59,1760943918829,technical_skills
+MYOB AccountingRight,Beginner,60.0,59,1760943918829,technical_skills
+Social Media Management,Intermediate,70.0,59,1760943918829,technical_skills
+Microsoft Excel,Advanced,80.0,60,1760943981578,technical_skills
+Microsoft Word,Advanced,70.0,60,1760943981578,technical_skills
+Microsoft PowerPoint,Advanced,70.0,60,1760943981578,technical_skills
+SQL Workbench,Intermediate,60.0,60,1760943981578,technical_skills
+PowerBI,Intermediate,65.0,60,1760943981578,technical_skills
+MYOB AccountingRight,Beginner,50.0,60,1760943981578,technical_skills
+Java,Advanced,90.0,61,1760956915046,technical_skills
+Spring Boot,Advanced,85.0,61,1760956915046,technical_skills
+ReactJS,Advanced,80.0,61,1760956915046,technical_skills
+Node.js,Intermediate,70.0,61,1760956915046,technical_skills
+Express.js,Intermediate,65.0,61,1760956915046,technical_skills
+Microservices architecture,Advanced,75.0,61,1760956915046,technical_skills
+Integration Testing,Intermediate,60.0,61,1760956915046,technical_skills
+CI/CD automation,Intermediate,60.0,61,1760956915046,technical_skills
+Cloud deployment,Beginner,50.0,61,1760956915046,technical_skills
+Python,Expert,90.0,62,1761015801597,technical_skills
+R,Intermediate,80.0,62,1761015801597,technical_skills
+SQL,Advanced,85.0,62,1761015801597,technical_skills
+Machine Learning,Advanced,80.0,62,1761015801597,technical_skills
+ETL,Intermediate,70.0,62,1761015801597,technical_skills
+Data Warehousing,Intermediate,70.0,62,1761015801597,technical_skills
+Power BI,Advanced,85.0,62,1761015801597,technical_skills
+Tableau,Intermediate,75.0,62,1761015801597,technical_skills
+GitHub,Intermediate,70.0,62,1761015801597,technical_skills
+Shell Scripting,Intermediate,65.0,62,1761015801597,technical_skills
+Python,Expert,90.0,62,1761016732393,technical_skills
+R,Intermediate,75.0,62,1761016732393,technical_skills
+SQL,Advanced,85.0,62,1761016732393,technical_skills
+Power BI,Advanced,80.0,62,1761016732393,technical_skills
+Tableau,Intermediate,70.0,62,1761016732393,technical_skills
+Pandas,Advanced,80.0,62,1761016732393,technical_skills
+NumPy,Advanced,80.0,62,1761016732393,technical_skills
+Matplotlib,Intermediate,70.0,62,1761016732393,technical_skills
+Scikit-learn,Advanced,80.0,62,1761016732393,technical_skills
+Data Warehousing,Advanced,80.0,62,1761016732393,technical_skills
+ETL,Advanced,80.0,62,1761016732393,technical_skills
+GitHub,Intermediate,70.0,62,1761016732393,technical_skills
+Shell Scripting,Beginner,60.0,62,1761016732393,technical_skills
+ggplot2,Intermediate,70.0,62,1761016732393,technical_skills
+Jupyter Notebook,Intermediate,70.0,62,1761016732393,technical_skills
+Microsoft Office Suite,Advanced,80.0,62,1761016732393,technical_skills
+Java,Expert,90.0,61,1761017207922,technical_skills
+Spring Boot,Advanced,80.0,61,1761017207922,technical_skills
+ReactJS,Advanced,80.0,61,1761017207922,technical_skills
+Node.js,Intermediate,60.0,61,1761017207922,technical_skills
+Express.js,Intermediate,60.0,61,1761017207922,technical_skills
+Microservices Architecture,Advanced,75.0,61,1761017207922,technical_skills
+CI/CD Automation,Intermediate,65.0,61,1761017207922,technical_skills
+Cloud Deployment,Intermediate,65.0,61,1761017207922,technical_skills
+Java (Spring Boot),Expert,95.0,61,1761299730848,technical_skills
+ReactJS,Advanced,85.0,61,1761299730848,technical_skills
+Node.js,Intermediate,75.0,61,1761299730848,technical_skills
+Express.js,Intermediate,75.0,61,1761299730848,technical_skills
+Microservices Architecture,Advanced,80.0,61,1761299730848,technical_skills
+Cloud Deployment,Intermediate,70.0,61,1761299730848,technical_skills
+CI/CD Automation,Intermediate,70.0,61,1761299730848,technical_skills
+Unit Testing & Debugging,Intermediate,75.0,61,1761299730848,technical_skills
+Opera System,Intermediate,60.0,24,1761536612482,technical_skills
+Python,Advanced,85.0,63,1761563204683,technical_skills
+C#,Advanced,80.0,63,1761563204683,technical_skills
+Java,Intermediate,70.0,63,1761563204683,technical_skills
+Javascript,Intermediate,70.0,63,1761563204683,technical_skills
+MySQL,Advanced,80.0,63,1761563204683,technical_skills
+MongoDB,Intermediate,70.0,63,1761563204683,technical_skills
+SQL Server,Intermediate,65.0,63,1761563204683,technical_skills
+OpenSearch,Intermediate,60.0,63,1761563204683,technical_skills
+ASP.NET,Advanced,80.0,63,1761563204683,technical_skills
+WPF/WinForm,Advanced,80.0,63,1761563204683,technical_skills
+FastAPI,Intermediate,70.0,63,1761563204683,technical_skills
+FlaskAPI,Intermediate,65.0,63,1761563204683,technical_skills
+ReactJS,Intermediate,65.0,63,1761563204683,technical_skills
+PyTorch,Intermediate,70.0,63,1761563204683,technical_skills
+Scikit-learn,Intermediate,70.0,63,1761563204683,technical_skills
+TensorFlow,Intermediate,70.0,63,1761563204683,technical_skills
+"AWS (EC2, S3, Redshift, Glue, Athena)",Intermediate,65.0,63,1761563204683,technical_skills
+"Azure (DevOps, SQL, Function)",Intermediate,65.0,63,1761563204683,technical_skills
+Docker,Intermediate,65.0,63,1761563204683,technical_skills
+Spark,Intermediate,65.0,63,1761563204683,technical_skills
+Kafka,Intermediate,65.0,63,1761563204683,technical_skills
+Java,Intermediate,60.0,64,1761711805580,technical_skills
+Microsoft Word,Beginner,40.0,64,1761711805580,technical_skills
+Microsoft PowerPoint,Beginner,40.0,64,1761711805580,technical_skills
+Microsoft Excel,Beginner,40.0,64,1761711805580,technical_skills
+Marketing Strategy,Expert,,12,1761737685422,technical_skills
+Market Research,Advanced,,12,1761737685422,technical_skills
+Budget Management,Advanced,,12,1761737685422,technical_skills
+HTML/CSS,Advanced,,65,1761790081236,technical_skills
+TypeScript,Advanced,,65,1761790081236,technical_skills
+JavaScript,Advanced,,65,1761790081236,technical_skills
+ReactJS,Advanced,,65,1761790081236,technical_skills
+Node.js,Advanced,,65,1761790081236,technical_skills
+Material UI,Intermediate,,65,1761790081236,technical_skills
+Zustand,Intermediate,,65,1761790081236,technical_skills
+ShadcnUI,Beginner,,65,1761790081236,technical_skills
+PostgreSQL,Intermediate,,65,1761790081236,technical_skills
+MongoDB,Intermediate,,65,1761790081236,technical_skills
+MySQL,Intermediate,,65,1761790081236,technical_skills
+Docker,Intermediate,,65,1761790081236,technical_skills
+Git,Advanced,,65,1761790081236,technical_skills
+GitHub Actions,Intermediate,,65,1761790081236,technical_skills
+Azure,Intermediate,,65,1761790081236,technical_skills
+CI/CD,Intermediate,,65,1761790081236,technical_skills
+TDD,Intermediate,,65,1761790081236,technical_skills
+Microservices,Intermediate,,65,1761790081236,technical_skills
+RESTful APIs,Advanced,,65,1761790081236,technical_skills
+OpenAI integrations,Intermediate,,65,1761790081236,technical_skills
+Python,Advanced,,66,1761791782304,technical_skills
+C++,Intermediate,,66,1761791782304,technical_skills
+JavaScript,Intermediate,,66,1761791782304,technical_skills
+HTML,Intermediate,,66,1761791782304,technical_skills
+CSS,Intermediate,,66,1761791782304,technical_skills
+SQL,Intermediate,,66,1761791782304,technical_skills
+R,Intermediate,,66,1761791782304,technical_skills
+Tableau,Intermediate,,66,1761791782304,technical_skills
+SPSS,Intermediate,,66,1761791782304,technical_skills
+Qualtrics,Intermediate,,66,1761791782304,technical_skills
+Microsoft Suite,Advanced,,66,1761791782304,technical_skills
+Google Suite,Advanced,,66,1761791782304,technical_skills
+SQL,Advanced,,67,1761792492896,technical_skills
+Python,Advanced,,67,1761792492896,technical_skills
+RESTful APIs,Intermediate,,67,1761792492896,technical_skills
+Data modeling,Intermediate,,67,1761792492896,technical_skills
+CI/CD pipelines,Intermediate,,67,1761792492896,technical_skills
+Microservices,Intermediate,,67,1761792492896,technical_skills
+System architecture,Intermediate,,67,1761792492896,technical_skills
+API contracts,Intermediate,,67,1761792492896,technical_skills
+Excel modeling,Intermediate,,67,1761792492896,technical_skills
+Performance benchmarking,Intermediate,,67,1761792492896,technical_skills
+JIRA,Advanced,,67,1761792492896,technical_skills
+Confluence,Intermediate,,67,1761792492896,technical_skills
+Postman,Advanced,,67,1761792492896,technical_skills
+GitHub,Advanced,,67,1761792492896,technical_skills
+Figma,Intermediate,,67,1761792492896,technical_skills
+Miro,Intermediate,,67,1761792492896,technical_skills
+Lucidchart,Intermediate,,67,1761792492896,technical_skills
+Excel,Advanced,,68,1762167836842,technical_skills
+Power BI,Beginner,,68,1762167836842,technical_skills
+POS Systems,Intermediate,,68,1762167836842,technical_skills
+RFID,Intermediate,,68,1762167836842,technical_skills
+Digital Marketing Strategy,Expert,,69,1762415067297,technical_skills
+Strategic Partnership,Expert,,69,1762415067297,technical_skills
+Business Development,Expert,,69,1762415067297,technical_skills
+Sustainability & ESG Planning,Advanced,,69,1762415067297,technical_skills
+Strategic planning,Expert,,70,1762418593592,technical_skills
+Stakeholder engagement,Expert,,70,1762418593592,technical_skills
+Partnership management,Expert,,70,1762418593592,technical_skills
+Selenium,Expert,,21,1762786886281,technical_skills
+Appium,Expert,,21,1762786886281,technical_skills
+Cypress,Advanced,,21,1762786886281,technical_skills
+JUnit,Advanced,,21,1762786886281,technical_skills
+TestNG,Advanced,,21,1762786886281,technical_skills
+Java,Advanced,,21,1762786886281,technical_skills
+Python,Intermediate,,21,1762786886281,technical_skills
+JavaScript,Intermediate,,21,1762786886281,technical_skills
+JIRA,Advanced,,21,1762786886281,technical_skills
+TestRail,Intermediate,,21,1762786886281,technical_skills
+Postman,Intermediate,,21,1762786886281,technical_skills
+JMeter,Intermediate,,21,1762786886281,technical_skills
+SQL,Intermediate,,21,1762786886281,technical_skills
+Manual Testing,Intermediate,,71,1762829598215,technical_skills
+Regression Testing,Intermediate,,71,1762829598215,technical_skills
+Smoke Testing,Intermediate,,71,1762829598215,technical_skills
+Exploratory Testing,Intermediate,,71,1762829598215,technical_skills
+Test Case Design,Intermediate,,71,1762829598215,technical_skills
+Bug Reporting,Intermediate,,71,1762829598215,technical_skills
+Jira,Beginner,,71,1762829598215,technical_skills
+Trello,Beginner,,71,1762829598215,technical_skills
+Selenium,Beginner,,71,1762829598215,technical_skills
+Playwright,Beginner,,71,1762829598215,technical_skills
+API Testing,Beginner,,71,1762829598215,technical_skills
+Postman,Beginner,,71,1762829598215,technical_skills
+SQL,Beginner,,71,1762829598215,technical_skills
+Microsoft 365,Advanced,,72,1762999432595,technical_skills
+Adobe Creative Suite,Advanced,,72,1762999432595,technical_skills
+Canva,Intermediate,,72,1762999432595,technical_skills
+CapCut,Intermediate,,72,1762999432595,technical_skills
+Jira,Intermediate,,72,1762999432595,technical_skills
+TeamGantt,Intermediate,,72,1762999432595,technical_skills
+Qualtrics,Intermediate,,72,1762999432595,technical_skills
+Shopify,Intermediate,,72,1762999432595,technical_skills
+Amazon,Intermediate,,72,1762999432595,technical_skills
+Meta Ads Manager,Intermediate,,72,1762999432595,technical_skills
+TikTok Content Creatives,Intermediate,,72,1762999432595,technical_skills
+Google Ads,Intermediate,,72,1762999432595,technical_skills
+Python,Advanced,,72,1762999432595,technical_skills
+Adobe Premiere,Intermediate,,73,1763011378910,technical_skills
+Canva,Intermediate,,73,1763011378910,technical_skills
+Tableau,Beginner,,73,1763011378910,technical_skills
+Google Tools,Intermediate,,73,1763011378910,technical_skills
+Meta Business Suite,Beginner,,73,1763011378910,technical_skills
+AI tools,Beginner,,73,1763011378910,technical_skills
+"Microsoft Office (Excel, Word, PowerPoint)",Expert,,4,1763426338160,technical_skills
+"Agile PM tools (Monday, Trello, Jira)",Advanced,,4,1763426338160,technical_skills
+Design & Clip Creation software,Intermediate,,4,1763426338160,technical_skills
+Glide App,Beginner,,4,1763426338160,technical_skills
+Agile / SCRUM,Intermediate,,74,1763439292146,technical_skills
+Data / Business Analytics,Beginner,,74,1763439292146,technical_skills
+Agile/Scrum,Intermediate,,74,1763439405082,technical_skills
+Data/Business Analytics,Beginner,,74,1763439405082,technical_skills
+Jira,Advanced,,74,1763439405082,technical_skills
+Google Analytics,Advanced,,74,1763439405082,technical_skills
+Power BI,Intermediate,,74,1763439405082,technical_skills
+Firebase,Intermediate,,74,1763439405082,technical_skills
+Mixpanel,Intermediate,,74,1763439405082,technical_skills
+Graphic Design,Intermediate,,75,1763599294846,technical_skills
+Video Editing,Advanced,,75,1763599294846,technical_skills
+Content Writing,Advanced,,75,1763599294846,technical_skills
+Web Design,Intermediate,,75,1763599294846,technical_skills
+Python,Advanced,,76,1763718531144,technical_skills
+JavaScript,Advanced,,76,1763718531144,technical_skills
+Java,Intermediate,,76,1763718531144,technical_skills
+C,Intermediate,,76,1763718531144,technical_skills
+PHP,Intermediate,,76,1763718531144,technical_skills
+HTML,Intermediate,,76,1763718531144,technical_skills
+Git,Advanced,,76,1763718531144,technical_skills
+Jenkins,Intermediate,,76,1763718531144,technical_skills
+Docker,Intermediate,,76,1763718531144,technical_skills
+Azure,Beginner,,76,1763718531144,technical_skills
+AWS,Intermediate,,76,1763718531144,technical_skills
+Ansible,Beginner,,76,1763718531144,technical_skills
+UML design,Intermediate,,76,1763718531144,technical_skills
+MySQL,Intermediate,,76,1763718531144,technical_skills
+PostgreSQL,Intermediate,,76,1763718531144,technical_skills
+Pandas,Intermediate,,76,1763718531144,technical_skills
+NumPy,Intermediate,,76,1763718531144,technical_skills
+scikit-learn,Beginner,,76,1763718531144,technical_skills
+MS Excel,Advanced,,76,1763718531144,technical_skills
+AutoTask,Intermediate,,77,1763978959692,technical_skills
+Datto RMM,Intermediate,,77,1763978959692,technical_skills
+Microsoft Cloud Solutions,Intermediate,,77,1763978959692,technical_skills
+Intune,Intermediate,,77,1763978959692,technical_skills
+C++,Beginner,,77,1763978959692,technical_skills
+Python,Intermediate,,77,1763978959692,technical_skills
+SQL,Intermediate,,77,1763978959692,technical_skills
+Windows,Advanced,,77,1763978959692,technical_skills
+Linux,Intermediate,,77,1763978959692,technical_skills
+Android,Beginner,,77,1763978959692,technical_skills
+Microsoft Office,Intermediate,,77,1763978959692,technical_skills
+VSCode,Intermediate,,77,1763978959692,technical_skills
+Lucidchart,Beginner,,77,1763978959692,technical_skills
+SharePoint,Intermediate,,77,1763978959692,technical_skills
+Teams,Intermediate,,77,1763978959692,technical_skills
+Azure AD,Intermediate,,77,1763978959692,technical_skills
+M365 Suite,Intermediate,,77,1763978959692,technical_skills
+Excel Modelling,Intermediate,,78,1764037995543,technical_skills
+Python,Beginner,,78,1764037995543,technical_skills
+Power BI,Intermediate,,78,1764037995543,technical_skills
+R Studio,Intermediate,,78,1764037995543,technical_skills
+Microsoft Office,Intermediate,,78,1764037995543,technical_skills
+Excel Modelling,Intermediate,,78,1764120241069,technical_skills
+Python,Beginner,,78,1764120241069,technical_skills
+Power BI,Intermediate,,78,1764120241069,technical_skills
+R Studio,Intermediate,,78,1764120241069,technical_skills
+Python,Intermediate,,79,1764509346202,technical_skills
+Pandas,Beginner,,79,1764509346202,technical_skills
+NumPy,Beginner,,79,1764509346202,technical_skills
+NLTK,Beginner,,79,1764509346202,technical_skills
+Java,Intermediate,,79,1764509346202,technical_skills
+HTML,Intermediate,,79,1764509346202,technical_skills
+JavaScript,Beginner,,79,1764509346202,technical_skills
+React,Beginner,,79,1764509346202,technical_skills
+Node.js,Beginner,,79,1764509346202,technical_skills
+Strapi,Beginner,,79,1764509346202,technical_skills
+SQL,Advanced,,80,1764559473987,technical_skills
+Metabase,Intermediate,,80,1764559473987,technical_skills
+Google Sheets,Advanced,,80,1764559473987,technical_skills
+Excel,Advanced,,80,1764559473987,technical_skills
+Power BI,Advanced,,80,1764559473987,technical_skills
+Python,Intermediate,,80,1764559473987,technical_skills
+DuckDB,Intermediate,,80,1764559473987,technical_skills
+Parquet,Beginner,,80,1764559473987,technical_skills
+Java,Expert,,81,1764734604345,technical_skills
+C++,Expert,,81,1764734604345,technical_skills
+C,Intermediate,,81,1764734604345,technical_skills
+HTML,Intermediate,,81,1764734604345,technical_skills
+CSS,Intermediate,,81,1764734604345,technical_skills
+JavaScript,Intermediate,,81,1764734604345,technical_skills
+Python,Intermediate,,81,1764734604345,technical_skills
+SQL,Intermediate,,81,1764734604345,technical_skills
+VueJS,Intermediate,,81,1764734604345,technical_skills
+Dart,Intermediate,,81,1764734604345,technical_skills
+Unity,Intermediate,,81,1764734604345,technical_skills
+Flutter,Intermediate,,81,1764734604345,technical_skills
+Firebase,Intermediate,,81,1764734604345,technical_skills
+R Studio,Intermediate,,81,1764734604345,technical_skills
+HTML/CSS,Advanced,,82,1765039382163,technical_skills
+UI/UX,Intermediate,,82,1765039382163,technical_skills
+GreytHR,Intermediate,,82,1765039382163,technical_skills
+Microsoft,Intermediate,,83,1765164693926,technical_skills
+Tableau,Intermediate,,83,1765164693926,technical_skills
+MySQL,Intermediate,,83,1765164693926,technical_skills
+R,Intermediate,,83,1765164693926,technical_skills
+Power BI,Beginner,,83,1765164693926,technical_skills
+Java,Beginner,,83,1765164693926,technical_skills
+C++,Beginner,,83,1765164693926,technical_skills
+Python,Intermediate,,83,1765164693926,technical_skills
+"POS systems (Square, Lightspeed)",Intermediate,,84,1765197036664,technical_skills
+Cash handling,Intermediate,,84,1765197036664,technical_skills
+Commercial espresso equipment,Intermediate,,84,1765197036664,technical_skills
+Kitchen operations support,Intermediate,,84,1765197036664,technical_skills
+Python,Intermediate,,85,1765288018811,technical_skills
+C/C++,Intermediate,,85,1765288018811,technical_skills
+SQL,Intermediate,,85,1765288018811,technical_skills
+R,Beginner,,85,1765288018811,technical_skills
+HTML/CSS/JavaScript,Intermediate,,85,1765288018811,technical_skills
+Git/Github,Intermediate,,85,1765288018811,technical_skills
+Tableau,Beginner,,85,1765288018811,technical_skills
+Power BI,Beginner,,85,1765288018811,technical_skills
+Google Data Studio,Beginner,,85,1765288018811,technical_skills
+Jupyter Notebook,Intermediate,,85,1765288018811,technical_skills
+VSCode,Intermediate,,85,1765288018811,technical_skills
+LaTeX,Beginner,,85,1765288018811,technical_skills
+Markdown,Intermediate,,85,1765288018811,technical_skills
+Linux,Intermediate,,85,1765288018811,technical_skills
+Microsoft Office,Intermediate,,85,1765288018811,technical_skills
+Machine Learning,Intermediate,,85,1765288018811,technical_skills
+Deep Learning,Intermediate,,85,1765288018811,technical_skills
+Data Visualization,Intermediate,,85,1765288018811,technical_skills
+ReactJS,Intermediate,,85,1765288018811,technical_skills
+Pandas,Intermediate,,85,1765288018811,technical_skills
+TensorFlow,Beginner,,85,1765288018811,technical_skills
+Keras,Beginner,,85,1765288018811,technical_skills
+OpenCV,Intermediate,,85,1765288018811,technical_skills
+NumPy,Intermediate,,85,1765288018811,technical_skills
+PyTorch,Beginner,,85,1765288018811,technical_skills
+Python,Advanced,,86,1765333821773,technical_skills
+C/C++,Intermediate,,86,1765333821773,technical_skills
+SQL,Intermediate,,86,1765333821773,technical_skills
+R,Intermediate,,86,1765333821773,technical_skills
+HTML/CSS/JavaScript,Intermediate,,86,1765333821773,technical_skills
+Git/Github,Intermediate,,86,1765333821773,technical_skills
+Tableau,Beginner,,86,1765333821773,technical_skills
+Power BI,Beginner,,86,1765333821773,technical_skills
+Google Data Studio,Beginner,,86,1765333821773,technical_skills
+Jupyter Notebook,Intermediate,,86,1765333821773,technical_skills
+VSCode,Intermediate,,86,1765333821773,technical_skills
+LaTeX,Intermediate,,86,1765333821773,technical_skills
+Markdown,Advanced,,86,1765333821773,technical_skills
+Linux,Intermediate,,86,1765333821773,technical_skills
+Microsoft Office,Intermediate,,86,1765333821773,technical_skills
+Machine Learning,Intermediate,,86,1765333821773,technical_skills
+Deep Learning,Intermediate,,86,1765333821773,technical_skills
+Data Visualization,Intermediate,,86,1765333821773,technical_skills
+ReactJS,Intermediate,,86,1765333821773,technical_skills
+Pandas,Intermediate,,86,1765333821773,technical_skills
+TensorFlow,Beginner,,86,1765333821773,technical_skills
+Keras,Beginner,,86,1765333821773,technical_skills
+OpenCV,Beginner,,86,1765333821773,technical_skills
+NumPy,Intermediate,,86,1765333821773,technical_skills
+PyTorch,Beginner,,86,1765333821773,technical_skills
+Microsoft Word,Advanced,,87,1765334157642,technical_skills
+Microsoft Excel,Advanced,,87,1765334157642,technical_skills
+Microsoft PowerPoint,Advanced,,87,1765334157642,technical_skills
+Word,Intermediate,,87,1765334219713,technical_skills
+Excel,Intermediate,,87,1765334219713,technical_skills
+PowerPoint,Intermediate,,87,1765334219713,technical_skills
+Microsoft Word,Advanced,,87,1765334240405,technical_skills
+Microsoft Excel,Intermediate,,87,1765334240405,technical_skills
+Microsoft PowerPoint,Advanced,,87,1765334240405,technical_skills
+F&B Operations,Intermediate,,87,1765334277646,technical_skills
+Word,Intermediate,,87,1765334277646,technical_skills
+Excel,Intermediate,,87,1765334277646,technical_skills
+PowerPoint,Intermediate,,87,1765334277646,technical_skills
+Digital Content Creation,Intermediate,,87,1765334277646,technical_skills
+Word,Advanced,,87,1765334312223,technical_skills
+Excel,Advanced,,87,1765334312223,technical_skills
+PowerPoint,Advanced,,87,1765334312223,technical_skills
+F&B operations,Intermediate,,87,1765334312223,technical_skills
+MS Excel,Advanced,,88,1765337136110,technical_skills
+Digital marketing,Beginner,,89,1765363852351,technical_skills
+Digital marketing,Intermediate,,89,1765363945818,technical_skills
+Selenium,Advanced,,7,1765522676643,technical_skills
+Playwright,Intermediate,,7,1765522676643,technical_skills
+Appium,Advanced,,7,1765522676643,technical_skills
+TestNG,Advanced,,7,1765522676643,technical_skills
+JUnit,Advanced,,7,1765522676643,technical_skills
+Python,Advanced,,7,1765522676643,technical_skills
+Java,Advanced,,7,1765522676643,technical_skills
+JavaScript,Intermediate,,7,1765522676643,technical_skills
+C#,Intermediate,,7,1765522676643,technical_skills
+Jenkins,Advanced,,7,1765522676643,technical_skills
+GitLab CI,Advanced,,7,1765522676643,technical_skills
+GitHub Actions,Intermediate,,7,1765522676643,technical_skills
+Jira,Advanced,,7,1765522676643,technical_skills
+TestRail,Advanced,,7,1765522676643,technical_skills
+Zephyr,Intermediate,,7,1765522676643,technical_skills
+Testlink,Intermediate,,7,1765522676643,technical_skills
+MTM server,Intermediate,,7,1765522676643,technical_skills
+Git,Advanced,,7,1765522676643,technical_skills
+GitHub,Advanced,,7,1765522676643,technical_skills
+GitLab,Advanced,,7,1765522676643,technical_skills
+Postman,Advanced,,7,1765522676643,technical_skills
+SoapUI,Intermediate,,7,1765522676643,technical_skills
+SQL,Advanced,,7,1765522676643,technical_skills
+MySQL,Advanced,,7,1765522676643,technical_skills
+Oracle,Intermediate,,7,1765522676643,technical_skills
+PostgreSQL,Intermediate,,7,1765522676643,technical_skills
+Functional Testing,Expert,,7,1765522676643,technical_skills
+Regression Testing,Expert,,7,1765522676643,technical_skills
+Exploratory Testing,Expert,,7,1765522676643,technical_skills
+Usability Testing,Advanced,,7,1765522676643,technical_skills
+Agile/Scrum,Advanced,,7,1765522676643,technical_skills
+SDLC,Advanced,,7,1765522676643,technical_skills
+STLC,Advanced,,7,1765522676643,technical_skills
+Selenium,Expert,,7,1765523103953,technical_skills
+Playwright,Expert,,7,1765523103953,technical_skills
+Appium,Expert,,7,1765523103953,technical_skills
+TestNG,Expert,,7,1765523103953,technical_skills
+JUnit,Expert,,7,1765523103953,technical_skills
+Python,Advanced,,7,1765523103953,technical_skills
+Java,Advanced,,7,1765523103953,technical_skills
+JavaScript,Advanced,,7,1765523103953,technical_skills
+C#,Intermediate,,7,1765523103953,technical_skills
+Jenkins,Advanced,,7,1765523103953,technical_skills
+GitLab CI,Advanced,,7,1765523103953,technical_skills
+GitHub Actions,Advanced,,7,1765523103953,technical_skills
+Jira,Advanced,,7,1765523103953,technical_skills
+TestRail,Advanced,,7,1765523103953,technical_skills
+Zephyr,Intermediate,,7,1765523103953,technical_skills
+Testlink,Intermediate,,7,1765523103953,technical_skills
+MTM server,Intermediate,,7,1765523103953,technical_skills
+Git,Advanced,,7,1765523103953,technical_skills
+GitHub,Advanced,,7,1765523103953,technical_skills
+GitLab,Advanced,,7,1765523103953,technical_skills
+Postman,Advanced,,7,1765523103953,technical_skills
+SoapUI,Intermediate,,7,1765523103953,technical_skills
+SQL,Advanced,,7,1765523103953,technical_skills
+MySQL,Advanced,,7,1765523103953,technical_skills
+Oracle,Intermediate,,7,1765523103953,technical_skills
+PostgreSQL,Intermediate,,7,1765523103953,technical_skills
+Functional Testing,Expert,,7,1765523103953,technical_skills
+Regression Testing,Expert,,7,1765523103953,technical_skills
+Exploratory Testing,Expert,,7,1765523103953,technical_skills
+Usability Testing,Advanced,,7,1765523103953,technical_skills
+Agile/Scrum,Expert,,7,1765523103953,technical_skills
+SDLC,Expert,,7,1765523103953,technical_skills
+STLC,Expert,,7,1765523103953,technical_skills
+Automation Testing,Expert,,90,1765535838080,technical_skills
+Manual Testing,Expert,,90,1765535838080,technical_skills
+Test Planning,Advanced,,90,1765535838080,technical_skills
+Regression Testing,Advanced,,90,1765535838080,technical_skills
+Jira,Advanced,,90,1765535838080,technical_skills
+TestRail,Advanced,,90,1765535838080,technical_skills
+SQL,Intermediate,,90,1765535838080,technical_skills
+Digital Marketing,Advanced,,91,1765768078889,technical_skills
+Sales Strategy,Advanced,,91,1765768078889,technical_skills
+Market Analysis,Advanced,,91,1765768078889,technical_skills
+CRM,Intermediate,,91,1765768078889,technical_skills
+Digital Transformation,Advanced,,91,1765768078889,technical_skills
+Digital Marketing,Expert,,91,1765768130387,technical_skills
+Digital Transformation,Expert,,91,1765768130387,technical_skills
+CRM,Advanced,,91,1765768130387,technical_skills
+Market Analysis,Advanced,,91,1765768130387,technical_skills
+Gamification,Intermediate,,91,1765768130387,technical_skills
+Digital Marketing,Expert,,91,1765768207678,technical_skills
+Digital Transformation,Expert,,91,1765768207678,technical_skills
+Loyalty Marketing,Expert,,91,1765768207678,technical_skills
+Gamification,Intermediate,,91,1765768207678,technical_skills
+eKYC,Intermediate,,91,1765768207678,technical_skills
+Digital Marketing,Expert,,91,1765768605656,technical_skills
+Loyalty Marketing,Expert,,91,1765768605656,technical_skills
+Gamification,Intermediate,,91,1765768605656,technical_skills
+eKYC & Credit Scoring,Intermediate,,91,1765768605656,technical_skills
+Digital Transformation,Expert,,91,1765768605656,technical_skills
+Digital Marketing Strategy,Expert,,91,1765780343020,technical_skills
+Loyalty Marketing,Expert,,91,1765780343020,technical_skills
+CRM & eKYC Solutions,Advanced,,91,1765780343020,technical_skills
+Innovation Workshops,Advanced,,91,1765780343020,technical_skills
+C#,Advanced,,92,1765809579263,technical_skills
+JavaScript,Advanced,,92,1765809579263,technical_skills
+Selenium,Advanced,,92,1765809579263,technical_skills
+TypeScript,Intermediate,,92,1765809579263,technical_skills
+Cypress,Intermediate,,92,1765809579263,technical_skills
+PHP,Intermediate,,92,1765809579263,technical_skills
+Postman,Intermediate,,92,1765809579263,technical_skills
+SoapUI,Intermediate,,92,1765809579263,technical_skills
+XML/XPATH,Intermediate,,92,1765809579263,technical_skills
+JIRA,Advanced,,92,1765809579263,technical_skills
+Confluence,Intermediate,,92,1765809579263,technical_skills
+MSSQL,Intermediate,,92,1765809579263,technical_skills
+GitHub,Advanced,,92,1765809579263,technical_skills
+C#,Advanced,,92,1765811507838,technical_skills
+PHP,Intermediate,,92,1765811507838,technical_skills
+JavaScript,Advanced,,92,1765811507838,technical_skills
+TypeScript,Intermediate,,92,1765811507838,technical_skills
+HTML/CSS,Advanced,,92,1765811507838,technical_skills
+XML/XPATH,Intermediate,,92,1765811507838,technical_skills
+Cypress,Intermediate,,92,1765811507838,technical_skills
+Selenium,Advanced,,92,1765811507838,technical_skills
+Postman,Intermediate,,92,1765811507838,technical_skills
+SoapUI,Intermediate,,92,1765811507838,technical_skills
+Fiddler,Intermediate,,92,1765811507838,technical_skills
+DMS,Intermediate,,92,1765811507838,technical_skills
+JIRA,Advanced,,92,1765811507838,technical_skills
+Xray,Intermediate,,92,1765811507838,technical_skills
+Confluence,Intermediate,,92,1765811507838,technical_skills
+MSSQL,Intermediate,,92,1765811507838,technical_skills
+MySQL,Intermediate,,92,1765811507838,technical_skills
+MSAccess,Beginner,,92,1765811507838,technical_skills
+MSVisio,Intermediate,,92,1765811507838,technical_skills
+MSProject,Intermediate,,92,1765811507838,technical_skills
+SVN,Intermediate,,92,1765811507838,technical_skills
+GitHub,Intermediate,,92,1765811507838,technical_skills
+Agile (Scrum/Kanban),Advanced,,92,1765811507838,technical_skills
+Rational Unified Process,Intermediate,,92,1765811507838,technical_skills
+CMM/CMMI,Intermediate,,92,1765811507838,technical_skills
+Selenium,Expert,,7,1765875551379,technical_skills
+Playwright,Advanced,,7,1765875551379,technical_skills
+Appium,Advanced,,7,1765875551379,technical_skills
+TestNG,Advanced,,7,1765875551379,technical_skills
+JUnit,Advanced,,7,1765875551379,technical_skills
+Python,Intermediate,,7,1765875551379,technical_skills
+Java,Intermediate,,7,1765875551379,technical_skills
+JavaScript,Intermediate,,7,1765875551379,technical_skills
+C#,Intermediate,,7,1765875551379,technical_skills
+Jenkins,Intermediate,,7,1765875551379,technical_skills
+GitLab CI,Intermediate,,7,1765875551379,technical_skills
+GitHub Actions,Intermediate,,7,1765875551379,technical_skills
+Jira,Intermediate,,7,1765875551379,technical_skills
+TestRail,Intermediate,,7,1765875551379,technical_skills
+Zephyr,Intermediate,,7,1765875551379,technical_skills
+Testlink,Intermediate,,7,1765875551379,technical_skills
+MTM server,Intermediate,,7,1765875551379,technical_skills
+Git,Intermediate,,7,1765875551379,technical_skills
+GitHub,Intermediate,,7,1765875551379,technical_skills
+GitLab,Intermediate,,7,1765875551379,technical_skills
+Postman,Intermediate,,7,1765875551379,technical_skills
+SoapUI,Intermediate,,7,1765875551379,technical_skills
+SQL,Intermediate,,7,1765875551379,technical_skills
+MySQL,Intermediate,,7,1765875551379,technical_skills
+Oracle,Intermediate,,7,1765875551379,technical_skills
+PostgreSQL,Intermediate,,7,1765875551379,technical_skills
+JIRA,Expert,,93,1765876212765,technical_skills
+TestRail,Expert,,93,1765876212765,technical_skills
+Azure DevOps,Advanced,,93,1765876212765,technical_skills
+Testlink,Intermediate,,93,1765876212765,technical_skills
+SQL,Intermediate,,93,1765876212765,technical_skills
+Oracle,Intermediate,,93,1765876212765,technical_skills
+Postman,Intermediate,,93,1765876212765,technical_skills
+Python,Intermediate,,25,1765877317442,technical_skills
+PostgreSQL,Intermediate,,25,1765877317442,technical_skills
+Data Analysis & Visualization,Intermediate,,25,1765877317442,technical_skills
+Figma,Intermediate,,25,1765877317442,technical_skills
+Artificial Intelligence and Machine Learning,Intermediate,,25,1765877317442,technical_skills
+Python,Intermediate,,25,1765877375294,technical_skills
+PostgreSQL,Beginner,,25,1765877375294,technical_skills
+Data Analysis & Visualization,Intermediate,,25,1765877375294,technical_skills
+Figma,Beginner,,25,1765877375294,technical_skills
+Artificial Intelligence & Machine Learning,Beginner,,25,1765877375294,technical_skills
+Digital & Social Media Marketing,Intermediate,,58,1765985962026,technical_skills
+Content Writing and Editing,Intermediate,,58,1765985962026,technical_skills
+CapCut,Beginner,,58,1765985962026,technical_skills
+Canva,Beginner,,58,1765985962026,technical_skills
+MS Office & Basic Data Entry,Intermediate,,58,1765985962026,technical_skills
+JavaScript,Expert,,94,1766384952415,technical_skills
+TypeScript,Expert,,94,1766384952415,technical_skills
+HTML5,Advanced,,94,1766384952415,technical_skills
+CSS3,Advanced,,94,1766384952415,technical_skills
+SQL,Intermediate,,94,1766384952415,technical_skills
+React,Expert,,94,1766384952415,technical_skills
+Next.js,Advanced,,94,1766384952415,technical_skills
+Redux,Advanced,,94,1766384952415,technical_skills
+TailwindCSS,Intermediate,,94,1766384952415,technical_skills
+Jest,Advanced,,94,1766384952415,technical_skills
+Cypress,Intermediate,,94,1766384952415,technical_skills
+React Testing Library,Intermediate,,94,1766384952415,technical_skills
+HIPAA & PCI-DSS,Intermediate,,94,1766384952415,technical_skills
+Playwright,Advanced,,28,1766970122432,technical_skills
+Robot Framework,Advanced,,28,1766970122432,technical_skills
+Selenium WebDriver,Intermediate,,28,1766970122432,technical_skills
+Python,Advanced,,28,1766970122432,technical_skills
+JavaScript,Advanced,,28,1766970122432,technical_skills
+TypeScript,Intermediate,,28,1766970122432,technical_skills
+Java,Intermediate,,28,1766970122432,technical_skills
+Shell/Bash,Intermediate,,28,1766970122432,technical_skills
+SQL Server,Intermediate,,28,1766970122432,technical_skills
+Jenkins,Advanced,,28,1766970122432,technical_skills
+GitLab CI,Intermediate,,28,1766970122432,technical_skills
+GitHub,Intermediate,,28,1766970122432,technical_skills
+Postman,Advanced,,28,1766970122432,technical_skills
+Jira,Intermediate,,28,1766970122432,technical_skills
+Confluence,Intermediate,,28,1766970122432,technical_skills
+Linux OS,Intermediate,,28,1766970122432,technical_skills
+Playwright,Expert,,28,1766970472090,technical_skills
+Robot Framework,Expert,,28,1766970472090,technical_skills
+Selenium Webdriver,Intermediate,,28,1766970472090,technical_skills
+JavaScript,Expert,,28,1766970472090,technical_skills
+Python,Expert,,28,1766970472090,technical_skills
+TypeScript,Intermediate,,28,1766970472090,technical_skills
+SQL Server,Intermediate,,28,1766970472090,technical_skills
+Jenkins,Intermediate,,28,1766970472090,technical_skills
+GitLab CI,Intermediate,,28,1766970472090,technical_skills
+Postman,Advanced,,28,1766970472090,technical_skills
+JIRA,Advanced,,28,1766970472090,technical_skills
+Docker,Intermediate,,28,1766970472090,technical_skills
+Python,Advanced,,28,1766970531512,technical_skills
+JavaScript,Advanced,,28,1766970531512,technical_skills
+Typescript,Intermediate,,28,1766970531512,technical_skills
+Java,Intermediate,,28,1766970531512,technical_skills
+Shell/Bash,Intermediate,,28,1766970531512,technical_skills
+Playwright,Advanced,,28,1766970531512,technical_skills
+Robot Framework,Advanced,,28,1766970531512,technical_skills
+Selenium Webdriver,Intermediate,,28,1766970531512,technical_skills
+SQL Server,Intermediate,,28,1766970531512,technical_skills
+Jenkins,Intermediate,,28,1766970531512,technical_skills
+GitLab CI,Intermediate,,28,1766970531512,technical_skills
+Git/Github,Advanced,,28,1766970531512,technical_skills
+JIRA,Intermediate,,28,1766970531512,technical_skills
+Postman,Advanced,,28,1766970531512,technical_skills
+Docker,Intermediate,,28,1766970531512,technical_skills
+Linux (Ubuntu),Intermediate,,28,1766970531512,technical_skills
+Confluence,Intermediate,,28,1766970531512,technical_skills
+Playwright,Advanced,,28,1766970593003,technical_skills
+Robot Framework,Advanced,,28,1766970593003,technical_skills
+JavaScript,Advanced,,28,1766970593003,technical_skills
+Python,Intermediate,,28,1766970593003,technical_skills
+Jenkins,Intermediate,,28,1766970593003,technical_skills
+GitLab CI,Intermediate,,28,1766970593003,technical_skills
+SQL Server,Intermediate,,28,1766970593003,technical_skills
+Git,Intermediate,,28,1766970593003,technical_skills
+Docker,Intermediate,,28,1766970593003,technical_skills
+Postman,Intermediate,,28,1766970593003,technical_skills
+JIRA,Intermediate,,28,1766970593003,technical_skills
+Manual testing,Expert,,95,1766985315025,technical_skills
+Black box testing,Expert,,95,1766985315025,technical_skills
+Functional testing,Expert,,95,1766985315025,technical_skills
+Regression testing,Expert,,95,1766985315025,technical_skills
+Load testing (JMeter),Advanced,,95,1766985315025,technical_skills
+Security testing,Advanced,,95,1766985315025,technical_skills
+"DB testing (MySQL, SQL Server, PostgreSQL)",Intermediate,,95,1766985315025,technical_skills
+Test automation (Java),Intermediate,,95,1766985315025,technical_skills
+Jira,Intermediate,,96,1767077621872,technical_skills
+Confluence,Intermediate,,96,1767077621872,technical_skills
+Python,Intermediate,,96,1767077621872,technical_skills
+SQL,Beginner,,96,1767077621872,technical_skills
+HTML,Beginner,,96,1767077621872,technical_skills
+CSS,Beginner,,96,1767077621872,technical_skills
+JavaScript,Beginner,,96,1767077621872,technical_skills
+Figma,Beginner,,96,1767077621872,technical_skills
+Jira,Expert,,96,1767611915426,technical_skills
+Confluence,Advanced,,96,1767611915426,technical_skills
+Workflow automation,Intermediate,,96,1767611915426,technical_skills
+Python,Intermediate,,96,1767611915426,technical_skills
+SQL,Beginner,,96,1767611915426,technical_skills
+HTML,Beginner,,96,1767611915426,technical_skills
+CSS,Beginner,,96,1767611915426,technical_skills
+JavaScript,Beginner,,96,1767611915426,technical_skills
+Figma,Beginner,,96,1767611915426,technical_skills
+Agile workflows,Advanced,,96,1767611915426,technical_skills
+Test planning,Advanced,,96,1767611915426,technical_skills
+Defect management,Intermediate,,96,1767611915426,technical_skills
+Balsamiq,Intermediate,,97,1767670162545,technical_skills
+Axure RP,Intermediate,,97,1767670162545,technical_skills
+Photoshop,Intermediate,,97,1767670162545,technical_skills
+Figma,Advanced,,97,1767670162545,technical_skills
+Jira,Advanced,,97,1767670162545,technical_skills
+Postman,Intermediate,,97,1767670162545,technical_skills
+Azure DevOps,Intermediate,,97,1767670162545,technical_skills
+Google Analytics,Intermediate,,97,1767670162545,technical_skills
+Firebase,Intermediate,,97,1767670162545,technical_skills
+Manual Testing,Expert,,98,1768204749541,technical_skills
+Automation Testing,Advanced,,98,1768204749541,technical_skills
+API Testing,Advanced,,98,1768204749541,technical_skills
+Regression Testing,Expert,,98,1768204749541,technical_skills
+Localization Testing,Intermediate,,98,1768204749541,technical_skills
+Performance Testing,Advanced,,98,1768204749541,technical_skills
+MSSQL,Intermediate,,98,1768204749541,technical_skills
+Postman,Intermediate,,98,1768204749541,technical_skills
+JMeter,Intermediate,,98,1768204749541,technical_skills
+UFT,Intermediate,,98,1768204749541,technical_skills
+Katalon,Intermediate,,98,1768204749541,technical_skills
+Test Planning,Advanced,,98,1768204749541,technical_skills
+UAT,Advanced,,98,1768204749541,technical_skills
+Agile Scrum,Advanced,,98,1768204749541,technical_skills
+Java,Advanced,,100,1768205136192,technical_skills
+API Testing,Advanced,,100,1768205136192,technical_skills
+UX/UI Testing,Intermediate,,100,1768205136192,technical_skills
+Black-box Testing,Advanced,,100,1768205136192,technical_skills
+White-box Testing,Intermediate,,100,1768205136192,technical_skills
+Gray-box Testing,Intermediate,,100,1768205136192,technical_skills
+Stress Testing,Intermediate,,100,1768205136192,technical_skills
+Selenium Framework,Intermediate,,100,1768205136192,technical_skills
+TestNG Framework,Intermediate,,100,1768205136192,technical_skills
+SQL,Intermediate,,100,1768205136192,technical_skills
+Database Management,Intermediate,,100,1768205136192,technical_skills
+Figma,Intermediate,,100,1768205136192,technical_skills
+Zeplin,Beginner,,100,1768205136192,technical_skills
+Microsoft Office,Intermediate,,100,1768205136192,technical_skills
+Jira,Intermediate,,100,1768205136192,technical_skills
+Postman,Beginner,,100,1768205136192,technical_skills
+JavaScript (ES6+),Expert,,101,1768225185605,technical_skills
+React,Expert,,101,1768225185605,technical_skills
+Angular,Intermediate,,101,1768225185605,technical_skills
+Vue,Intermediate,,101,1768225185605,technical_skills
+HTML5,Expert,,101,1768225185605,technical_skills
+CSS3,Expert,,101,1768225185605,technical_skills
+Sass/Less,Advanced,,101,1768225185605,technical_skills
+Responsive Design,Advanced,,101,1768225185605,technical_skills
+Software Architecture Design,Advanced,,101,1768225185605,technical_skills
+Code Review,Advanced,,101,1768225185605,technical_skills
+Software Testing and Debugging,Advanced,,101,1768225185605,technical_skills
+Algorithm Optimization,Advanced,,101,1768225185605,technical_skills
+Agile/Scrum,Advanced,,101,1768225185605,technical_skills
+Technical Documentation,Advanced,,101,1768225185605,technical_skills
+Risk Identification and Mitigation,Advanced,,101,1768225185605,technical_skills
+Python,Intermediate,,79,1768225331102,technical_skills
+Pandas,Intermediate,,79,1768225331102,technical_skills
+NumPy,Intermediate,,79,1768225331102,technical_skills
+NLTK,Intermediate,,79,1768225331102,technical_skills
+Jupyter Notebook,Intermediate,,79,1768225331102,technical_skills
+JavaScript,Beginner,,79,1768225331102,technical_skills
+React,Intermediate,,79,1768225331102,technical_skills
+Node.js,Intermediate,,79,1768225331102,technical_skills
+Strapi,Beginner,,79,1768225331102,technical_skills
+HTML,Intermediate,,79,1768225331102,technical_skills
+Java,Beginner,,79,1768225331102,technical_skills
+OOP & Data Structure,Beginner,,79,1768225331102,technical_skills
+Machine Learning,Beginner,,79,1768225331102,technical_skills
+GitHub,Beginner,,79,1768225331102,technical_skills
+Google Colab,Beginner,,79,1768225331102,technical_skills
+Android Studio,Beginner,,79,1768225331102,technical_skills
+Manual Testing,Expert,,102,1768227890059,technical_skills
+Selenium,Advanced,,102,1768227890059,technical_skills
+TestNG,Intermediate,,102,1768227890059,technical_skills
+API Testing,Advanced,,102,1768227890059,technical_skills
+Regression Testing,Advanced,,102,1768227890059,technical_skills
+Black-box Testing,Advanced,,102,1768227890059,technical_skills
+White-box Testing,Intermediate,,102,1768227890059,technical_skills
+Gray-box Testing,Intermediate,,102,1768227890059,technical_skills
+SQL,Intermediate,,102,1768227890059,technical_skills
+Java,Intermediate,,102,1768227890059,technical_skills
+Figma,Intermediate,,102,1768227890059,technical_skills
+Jira,Intermediate,,102,1768227890059,technical_skills
+Postman,Intermediate,,102,1768227890059,technical_skills
+ReactJS,Expert,,20,1768227956938,technical_skills
+Redux,Intermediate,,20,1768227956938,technical_skills
+HTML5,Advanced,,20,1768227956938,technical_skills
+CSS3,Advanced,,20,1768227956938,technical_skills
+JavaScript (ES6+),Expert,,20,1768227956938,technical_skills
+Material UI,Intermediate,,20,1768227956938,technical_skills
+Java (Spring Boot),Expert,,20,1768227956938,technical_skills
+Node.js,Expert,,20,1768227956938,technical_skills
+Express,Intermediate,,20,1768227956938,technical_skills
+REST API,Advanced,,20,1768227956938,technical_skills
+PostgreSQL,Intermediate,,20,1768227956938,technical_skills
+MongoDB,Intermediate,,20,1768227956938,technical_skills
+SQL Server,Intermediate,,20,1768227956938,technical_skills
+AWS,Advanced,,20,1768227956938,technical_skills
+Docker,Advanced,,20,1768227956938,technical_skills
+Jenkins,Advanced,,20,1768227956938,technical_skills
+Git,Advanced,,20,1768227956938,technical_skills
+Postman,Advanced,,20,1768227956938,technical_skills
+Java,Intermediate,,102,1768228010447,technical_skills
+API Testing,Advanced,,102,1768228010447,technical_skills
+UX/UI Testing,Intermediate,,102,1768228010447,technical_skills
+Black-box Testing,Advanced,,102,1768228010447,technical_skills
+White-box Testing,Intermediate,,102,1768228010447,technical_skills
+Gray-box Testing,Intermediate,,102,1768228010447,technical_skills
+Stress Test Automation,Intermediate,,102,1768228010447,technical_skills
+Selenium Framework,Intermediate,,102,1768228010447,technical_skills
+TestNG Framework,Intermediate,,102,1768228010447,technical_skills
+Database Management,Intermediate,,102,1768228010447,technical_skills
+SQL,Intermediate,,102,1768228010447,technical_skills
+Figma,Intermediate,,102,1768228010447,technical_skills
+Zeplin,Intermediate,,102,1768228010447,technical_skills
+Microsoft Office,Intermediate,,102,1768228010447,technical_skills
+Jira,Intermediate,,102,1768228010447,technical_skills
+Postman,Intermediate,,102,1768228010447,technical_skills
+Java,Intermediate,,103,1768294188793,technical_skills
+Selenium Framework,Intermediate,,103,1768294188793,technical_skills
+TestNG Framework,Intermediate,,103,1768294188793,technical_skills
+SQL,Intermediate,,103,1768294188793,technical_skills
+Jira,Intermediate,,103,1768294188793,technical_skills
+Postman,Intermediate,,103,1768294188793,technical_skills
+Figma,Beginner,,103,1768294188793,technical_skills
+Zeplin,Beginner,,103,1768294188793,technical_skills
+Microsoft Office,Intermediate,,103,1768294188793,technical_skills
+Manual Testing,Advanced,,104,1768300856822,technical_skills
+API Testing,Advanced,,104,1768300856822,technical_skills
+Automation Testing (Selenium),Intermediate,,104,1768300856822,technical_skills
+TestNG Framework,Intermediate,,104,1768300856822,technical_skills
+Java,Intermediate,,104,1768300856822,technical_skills
+SQL,Intermediate,,104,1768300856822,technical_skills
+Jira,Intermediate,,104,1768300856822,technical_skills
+Postman,Intermediate,,104,1768300856822,technical_skills
+Figma,Intermediate,,104,1768300856822,technical_skills
+Zeplin,Intermediate,,104,1768300856822,technical_skills
+Manual Testing,Expert,,105,1768300934765,technical_skills
+API Testing,Expert,,105,1768300934765,technical_skills
+Regression Testing,Expert,,105,1768300934765,technical_skills
+Selenium,Intermediate,,105,1768300934765,technical_skills
+JIRA,Advanced,,105,1768300934765,technical_skills
+Postman,Advanced,,105,1768300934765,technical_skills
+Java,Intermediate,,102,1768301145125,technical_skills
+SQL,Intermediate,,102,1768301145125,technical_skills
+Selenium,Intermediate,,102,1768301145125,technical_skills
+TestNG,Intermediate,,102,1768301145125,technical_skills
+Figma,Intermediate,,102,1768301145125,technical_skills
+Zeplin,Intermediate,,102,1768301145125,technical_skills
+Microsoft Office,Advanced,,102,1768301145125,technical_skills
+Jira,Intermediate,,102,1768301145125,technical_skills
+Postman,Intermediate,,102,1768301145125,technical_skills
+JavaScript (ES6+),Expert,,101,1768301227240,technical_skills
+React/Angular/Vue,Expert,,101,1768301227240,technical_skills
+HTML5,Expert,,101,1768301227240,technical_skills
+CSS3,Expert,,101,1768301227240,technical_skills
+Sass/Less,Advanced,,101,1768301227240,technical_skills
+Responsive Design,Advanced,,101,1768301227240,technical_skills
+Software Architecture Design,Advanced,,101,1768301227240,technical_skills
+Programming and Coding,Expert,,101,1768301227240,technical_skills
+Code Review,Advanced,,101,1768301227240,technical_skills
+Software Testing and Debugging,Advanced,,101,1768301227240,technical_skills
+Algorithm Optimization,Advanced,,101,1768301227240,technical_skills
+Software Development Process Management,Advanced,,101,1768301227240,technical_skills
+Risk Identification and Mitigation,Advanced,,101,1768301227240,technical_skills
+Technical Documentation,Advanced,,101,1768301227240,technical_skills
+Documentation and Reporting,Advanced,,101,1768301227240,technical_skills
+Jira,Intermediate,,96,1768301289342,technical_skills
+Confluence,Intermediate,,96,1768301289342,technical_skills
+Python,Intermediate,,96,1768301289342,technical_skills
+Basic SQL,Beginner,,96,1768301289342,technical_skills
+Workflow automation,Intermediate,,96,1768301289342,technical_skills
+HTML,Beginner,,96,1768301289342,technical_skills
+CSS,Beginner,,96,1768301289342,technical_skills
+JavaScript,Beginner,,96,1768301289342,technical_skills
+Figma,Beginner,,96,1768301289342,technical_skills
+Java,Intermediate,,102,1768301330793,technical_skills
+Manual Testing,Advanced,,102,1768301330793,technical_skills
+API Testing,Intermediate,,102,1768301330793,technical_skills
+UX/UI Testing,Intermediate,,102,1768301330793,technical_skills
+Black-box Testing,Advanced,,102,1768301330793,technical_skills
+White-box Testing,Intermediate,,102,1768301330793,technical_skills
+Gray-box Testing,Intermediate,,102,1768301330793,technical_skills
+Selenium Framework,Intermediate,,102,1768301330793,technical_skills
+TestNG Framework,Intermediate,,102,1768301330793,technical_skills
+SQL,Intermediate,,102,1768301330793,technical_skills
+Jira,Intermediate,,102,1768301330793,technical_skills
+Figma,Beginner,,102,1768301330793,technical_skills
+Zeplin,Beginner,,102,1768301330793,technical_skills
+Microsoft Office,Intermediate,,102,1768301330793,technical_skills
+Postman,Intermediate,,102,1768301330793,technical_skills
+Java,Intermediate,,102,1768310941998,technical_skills
+API Testing,Advanced,,102,1768310941998,technical_skills
+UX/UI Testing,Advanced,,102,1768310941998,technical_skills
+Black-box Testing,Advanced,,102,1768310941998,technical_skills
+White-box Testing,Advanced,,102,1768310941998,technical_skills
+Gray-box Testing,Advanced,,102,1768310941998,technical_skills
+Selenium Framework,Intermediate,,102,1768310941998,technical_skills
+TestNG Framework,Intermediate,,102,1768310941998,technical_skills
+SQL,Intermediate,,102,1768310941998,technical_skills
+Jira,Intermediate,,102,1768310941998,technical_skills
+Postman,Intermediate,,102,1768310941998,technical_skills
+Figma,Beginner,,102,1768310941998,technical_skills
+Zeplin,Beginner,,102,1768310941998,technical_skills
+Microsoft Office,Intermediate,,102,1768310941998,technical_skills
+Jira,Expert,,90,1769052233511,technical_skills
+TestRail,Advanced,,90,1769052233511,technical_skills
+Testlink,Intermediate,,90,1769052233511,technical_skills
+MTM server,Intermediate,,90,1769052233511,technical_skills
+TFS server,Intermediate,,90,1769052233511,technical_skills
+Test Architect,Intermediate,,90,1769052233511,technical_skills
+TA mobile,Intermediate,,90,1769052233511,technical_skills
+SQL,Advanced,,90,1769052233511,technical_skills
+MySQL,Advanced,,90,1769052233511,technical_skills
+Oracle,Intermediate,,90,1769052233511,technical_skills
+Google Drive,Intermediate,,90,1769052233511,technical_skills
+Dropbox,Beginner,,90,1769052233511,technical_skills
+Web testing,Expert,,90,1769052233511,technical_skills
+Mobile testing,Expert,,90,1769052233511,technical_skills
+Windows,Advanced,,90,1769052233511,technical_skills
+Mac OS,Advanced,,90,1769052233511,technical_skills
+Linux,Intermediate,,90,1769052233511,technical_skills
+iOS,Intermediate,,90,1769052233511,technical_skills
+Android,Intermediate,,90,1769052233511,technical_skills
+Jira,Intermediate,,106,1769064719543,technical_skills
+Confluence,Intermediate,,106,1769064719543,technical_skills
+Python,Intermediate,,106,1769064719543,technical_skills
+Basic SQL,Beginner,,106,1769064719543,technical_skills
+HTML,Beginner,,106,1769064719543,technical_skills
+CSS,Beginner,,106,1769064719543,technical_skills
+JavaScript,Beginner,,106,1769064719543,technical_skills
+Figma,Beginner,,106,1769064719543,technical_skills
+Canva,Intermediate,,107,1769157883790,technical_skills
+PowerPoint,Advanced,,107,1769157883790,technical_skills
+Word,Advanced,,107,1769157883790,technical_skills
+Java,Intermediate,,108,1769166356912,technical_skills
+Selenium Framework,Intermediate,,108,1769166356912,technical_skills
+TestNG Framework,Intermediate,,108,1769166356912,technical_skills
+API Testing,Advanced,,108,1769166356912,technical_skills
+UX/UI Testing,Advanced,,108,1769166356912,technical_skills
+Black-box Testing,Advanced,,108,1769166356912,technical_skills
+White-box Testing,Advanced,,108,1769166356912,technical_skills
+Gray-box Testing,Advanced,,108,1769166356912,technical_skills
+Stress Testing,Intermediate,,108,1769166356912,technical_skills
+SQL & Database Management,Intermediate,,108,1769166356912,technical_skills
+Jira,Intermediate,,108,1769166356912,technical_skills
+Postman,Intermediate,,108,1769166356912,technical_skills
+Figma,Intermediate,,108,1769166356912,technical_skills
+Zeplin,Intermediate,,108,1769166356912,technical_skills
+Microsoft Office,Intermediate,,108,1769166356912,technical_skills
+Java,Intermediate,,109,1769169310641,technical_skills
+Selenium Framework,Intermediate,,109,1769169310641,technical_skills
+TestNG Framework,Intermediate,,109,1769169310641,technical_skills
+SQL,Intermediate,,109,1769169310641,technical_skills
+Jira,Intermediate,,109,1769169310641,technical_skills
+Postman,Intermediate,,109,1769169310641,technical_skills
+Figma,Beginner,,109,1769169310641,technical_skills
+Zeplin,Beginner,,109,1769169310641,technical_skills
+Microsoft Office,Advanced,,109,1769169310641,technical_skills
+JIRA,Advanced,,93,1769472937543,technical_skills
+TestRail,Advanced,,93,1769472937543,technical_skills
+Azure DevOps,Advanced,,93,1769472937543,technical_skills
+Testlink,Intermediate,,93,1769472937543,technical_skills
+MTM server,Intermediate,,93,1769472937543,technical_skills
+TFS server,Intermediate,,93,1769472937543,technical_skills
+SQL,Intermediate,,93,1769472937543,technical_skills
+Oracle,Intermediate,,93,1769472937543,technical_skills
+Openwork,Intermediate,,93,1769472937543,technical_skills
+MySQL,Intermediate,,93,1769472937543,technical_skills
+MacOS,Intermediate,,93,1769472937543,technical_skills
+Windows,Intermediate,,93,1769472937543,technical_skills
+Linux,Intermediate,,93,1769472937543,technical_skills
+iOS,Intermediate,,93,1769472937543,technical_skills
+Android,Intermediate,,93,1769472937543,technical_skills
+Chrome,Intermediate,,93,1769472937543,technical_skills
+Firefox,Intermediate,,93,1769472937543,technical_skills
+Safari,Intermediate,,93,1769472937543,technical_skills
+Postman (API testing),Advanced,,93,1769472937543,technical_skills
+Automation testing,Expert,,90,1769496132126,technical_skills
+Manual testing,Expert,,90,1769496132126,technical_skills
+TestArchitect,Expert,,90,1769496132126,technical_skills
+TestRail,Expert,,90,1769496132126,technical_skills
+Jira,Expert,,90,1769496132126,technical_skills
+SQL,Advanced,,90,1769496132126,technical_skills
+Linux,Intermediate,,90,1769496132126,technical_skills
+Windows,Advanced,,90,1769496132126,technical_skills
+Mac OS,Advanced,,90,1769496132126,technical_skills
+Manual Testing,Expert,,10,1769661675068,technical_skills
+Automated Testing,Advanced,,10,1769661675068,technical_skills
+Selenium,Advanced,,10,1769661675068,technical_skills
+TestNG,Intermediate,,10,1769661675068,technical_skills
+JUnit,Intermediate,,10,1769661675068,technical_skills
+Postman,Advanced,,10,1769661675068,technical_skills
+REST Assured,Intermediate,,10,1769661675068,technical_skills
+Jira,Advanced,,10,1769661675068,technical_skills
+TestRail,Intermediate,,10,1769661675068,technical_skills
+Git,Intermediate,,10,1769661675068,technical_skills
+GitHub,Intermediate,,10,1769661675068,technical_skills
+Jenkins,Intermediate,,10,1769661675068,technical_skills
+MySQL,Intermediate,,10,1769661675068,technical_skills
+MongoDB,Intermediate,,10,1769661675068,technical_skills
+Agile/Scrum Methodologies,Advanced,,10,1769661675068,technical_skills
+Selenium Framework,Advanced,,100,1769743114981,technical_skills
+TestNG Framework,Intermediate,,100,1769743114981,technical_skills
+Java,Intermediate,,100,1769743114981,technical_skills
+SQL,Intermediate,,100,1769743114981,technical_skills
+Jira,Intermediate,,100,1769743114981,technical_skills
+Postman,Intermediate,,100,1769743114981,technical_skills
+Figma,Intermediate,,100,1769743114981,technical_skills
+Zeplin,Intermediate,,100,1769743114981,technical_skills
+TypeScript,Advanced,,65,1769764151753,technical_skills
+JavaScript,Advanced,,65,1769764151753,technical_skills
+ReactJS,Advanced,,65,1769764151753,technical_skills
+Node.js,Intermediate,,65,1769764151753,technical_skills
+Zustand,Intermediate,,65,1769764151753,technical_skills
+Material UI,Intermediate,,65,1769764151753,technical_skills
+ShadcnUI,Beginner,,65,1769764151753,technical_skills
+PostgreSQL,Intermediate,,65,1769764151753,technical_skills
+MongoDB,Intermediate,,65,1769764151753,technical_skills
+MySQL,Intermediate,,65,1769764151753,technical_skills
+Docker,Intermediate,,65,1769764151753,technical_skills
+Git,Advanced,,65,1769764151753,technical_skills
+GitHub Actions,Intermediate,,65,1769764151753,technical_skills
+Azure,Beginner,,65,1769764151753,technical_skills
+CI/CD,Intermediate,,65,1769764151753,technical_skills
+TDD,Intermediate,,65,1769764151753,technical_skills
+Clean Architecture,Intermediate,,65,1769764151753,technical_skills
+Domain-Driven Design,Intermediate,,65,1769764151753,technical_skills
+Event-Driven Architecture,Beginner,,65,1769764151753,technical_skills
+Microservices,Beginner,,65,1769764151753,technical_skills
+Jest,Intermediate,,65,1769764151753,technical_skills
+React Testing Library,Intermediate,,65,1769764151753,technical_skills
+RESTful Services,Intermediate,,65,1769764151753,technical_skills
+OpenAI Integrations,Intermediate,,65,1769764151753,technical_skills
+Manual Testing,Expert,,100,1770000367449,technical_skills
+Selenium Framework,Intermediate,,100,1770000367449,technical_skills
+TestNG Framework,Intermediate,,100,1770000367449,technical_skills
+Java,Intermediate,,100,1770000367449,technical_skills
+SQL,Intermediate,,100,1770000367449,technical_skills
+Jira,Advanced,,100,1770000367449,technical_skills
+Postman,Intermediate,,100,1770000367449,technical_skills
+Figma,Intermediate,,100,1770000367449,technical_skills
+Zeplin,Intermediate,,100,1770000367449,technical_skills
+CMMS (Engica),Expert,,110,1770480528604,technical_skills
+Reliability Engineering,Expert,,110,1770480528604,technical_skills
+Outage Planning & Execution,Expert,,110,1770480528604,technical_skills
+Root Cause Analysis,Expert,,110,1770480528604,technical_skills
+Asset Integrity Management,Advanced,,110,1770480528604,technical_skills
+Budgeting & Forecasting,Advanced,,110,1770480528604,technical_skills
+Vendor & Contract Management,Advanced,,110,1770480528604,technical_skills
+Management of Change (MoC),Advanced,,110,1770480528604,technical_skills
+Python,Advanced,,111,1770645524167,technical_skills
+SQL,Advanced,,111,1770645524167,technical_skills
+Microsoft Excel,Expert,,111,1770645524167,technical_skills
+Power BI,Advanced,,111,1770645524167,technical_skills
+Tableau,Intermediate,,111,1770645524167,technical_skills
+Power Query,Intermediate,,111,1770645524167,technical_skills
+DAX,Intermediate,,111,1770645524167,technical_skills
+Python,Intermediate,,111,1770645573729,technical_skills
+SQL,Advanced,,111,1770645573729,technical_skills
+Microsoft Excel,Expert,,111,1770645573729,technical_skills
+Power BI,Advanced,,111,1770645573729,technical_skills
+Tableau,Intermediate,,111,1770645573729,technical_skills
+Power Query,Intermediate,,111,1770645573729,technical_skills
+C# / .NET,Expert,,112,1771904249832,technical_skills
+"AWS (EC2, ECS, Lambda, S3, RDS)",Advanced,,112,1771904249832,technical_skills
+Python & Django,Intermediate,,112,1771904249832,technical_skills
+Microservices & Distributed Systems,Expert,,112,1771904249832,technical_skills
+RESTful APIs,Expert,,112,1771904249832,technical_skills
+Datadog,Advanced,,112,1771904249832,technical_skills
+GitHub Actions / GitLab CI,Advanced,,112,1771904249832,technical_skills
+Docker & Kubernetes,Advanced,,112,1771904249832,technical_skills
+PostgreSQL,Advanced,,112,1771904249832,technical_skills
+DynamoDB,Intermediate,,112,1771904249832,technical_skills
+Redis & Elasticsearch,Intermediate,,112,1771904249832,technical_skills
+Zuora & Salesforce integrations,Intermediate,,112,1771904249832,technical_skills
+TypeScript & Node.js,Intermediate,,112,1771904249832,technical_skills
+React & Angular,Intermediate,,112,1771904249832,technical_skills
